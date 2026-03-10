@@ -1,0 +1,29 @@
+Regarding lifespan/species treatment
+
+06_05_05_combine_dinucleotide_lifespan_class_with_unmatched_info.py
+This script combines lifespan data from busco_species_lifespan_with_class_20250507.csv with pre-calculated nucleotide frequency data.
+
+Lifespan Data Description:
+The file busco_species_lifespan_with_class_20250507.csv contains two lifespan-related columns:
+
+Average_lifespan_days: The primary lifespan metric used in our analyses, representing the average of maximum reported lifespans for each species (in days). This value is used in analyses of lifespan–nucleotide motif evolution (as shown in Table S2 of the article).
+Average_lifespan_days_in_longer_life_cycle: This column will be used in a forthcoming publication and is not included in the current analyses.
+
+Filtering for Definitive Lifespan Species:
+Species with ambiguous lifespan concepts—such as those exhibiting asexual reproduction, dormancy, or extreme inter-individual variation—are excluded from the analysis.
+This filtering is conducted using the script 06_05_09_extract_all_zero_lifehistory_in_6_categories.py, which retains only species classified as having a definitive lifespan, defined as having a value of 0 in all of the following six life-history categories:
+Parthenogenesis
+Fission Budding
+Highly dormant eggs
+Dormant state in other than egg stage
+More than one type of life cycles
+Eusociality
+These columns are included in busco_species_lifespan_with_class_20250507.csv.
+
+
+
+06_05_06_exclude_anormal_species.py
+This script excludes species with too few detected BUSCO genes, as such low counts are insufficient to calculate reliable average nucleotide frequencies.
+In addition to these species, running BUSCO with AUGUSTUS failed for 5 species for some reason: Schistocerca gregaria, Magicicada septendecula, Macrobrachium hainanense, Schmidtea mediterranea, Eledone cirrhosa (listed in exclude_species_list_busco_zero_hit_and_augustus_failed_species.csv).
+These species were also excluded in this preocess.
+

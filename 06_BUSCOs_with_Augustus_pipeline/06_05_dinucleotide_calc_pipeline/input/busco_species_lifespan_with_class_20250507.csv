@@ -1,0 +1,640 @@
+﻿Assembly Identifier,Phylum,Class,Order,Family,Genus,Organism Name,Average_lifespan_days,Average_lifespan_days_in_longer_life_cycle,Parthenogenesis,Fission Budding,Highly dormant eggs,Dormant state in other than egg stage,More than one type of life cycles,Eusociality,Eusociality level,Host number
+GCA_012934845.2_ASM1293484v2,Acanthocephala,Palaeacanthocephala,Echinorhynchida,Pomphorhynchidae,Pomphorhynchus,Pomphorhynchus laevis,224.5,0,0,0,0,0,0,0,0,2
+GCA_020405105.1_ASM2040510v1,Annelida,Clitellata,Crassiclitellata,Eudrilidae,Eudrilus,Eudrilus eugeniae,1095,0,0,0,0,0,0,0,0,0
+GCA_020284085.1_ApCa_Genome_070519_masked.fasta,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Aporrectodea,Aporrectodea caliginosa,1095,0,0,0,0,0,0,0,0,0
+GCA_003999395.1_Eisenia_fetida_CLC_PE_MP,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Eisenia,Eisenia fetida,2051.908333,0,0,0,0,0,0,0,0,0
+GCA_945859605.1_wcLumRube1.1,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus rubellus,1095,0,0,0,0,0,0,0,0,0
+GCA_949752735.1_wcLumTerr1.1,Annelida,Clitellata,Crassiclitellata,Lumbricidae,Lumbricus,Lumbricus terrestris,2815.4,0,0,0,0,0,0,0,0,0
+GCA_904063045.1_Dgyrociliatus_assembly,Annelida,Polychaeta,Dinophilidae,Dinophilidae,Dimorphilus,Dimorphilus gyrociliatus,109,0,0,0,0,0,0,0,0,0
+GCA_905160935.1_enchytraeus_crypticus_genome,Annelida,Clitellata,Enchytraeida,Enchytraeidae,Enchytraeus,Enchytraeus crypticus,370,0,0,0,0,0,0,0,0,0
+GCA_964020975.1_waHerCaru1.1,Annelida,Polychaeta,Eunicida,Amphinomidae,Hermodice,Hermodice carunculata,3285,0,0,0,0,0,0,0,0,0
+GCA_963978895.1_wkErpOcto2.1,Annelida,Clitellata,Hirudinida,Erpobdellidae,Erpobdella,Erpobdella octoculata,817.9924242,0,0,0,0,0,0,0,0,0
+GCA_034509925.1_ASM3450992v1,Annelida,Clitellata,Hirudinida,Hirudinidae,Hirudinaria,Hirudinaria manillensis,2920,0,0,0,0,0,0,0,0,0
+GCA_011800805.1_ASM1180080v1,Annelida,Clitellata,Hirudinida,Hirudinidae,Hirudo,Hirudo medicinalis,1213.25,0,0,0,0,0,0,0,0,0
+GCA_020137395.1_ASM2013739v1,Annelida,Clitellata,Hirudinida,Hirudinidae,Hirudo,Hirudo verbana,1095,0,0,0,0,0,0,0,0,0
+GCA_943735955.1_wrPisGeom1.1,Annelida,Clitellata,Hirudinida,Piscicolidae,Piscicola,Piscicola geometra,292,0,0,0,0,0,0,0,0,0
+GCA_932294295.1_wpAliVire1.1,Annelida,Polychaeta,Phyllodocida,Nereididae,Alitta,Alitta virens,2007.5,0,0,0,0,0,0,0,0,0
+GCA_043381215.1_ASM4338121v1,Annelida,Polychaeta,Phyllodocida,Nereididae,Platynereis,Platynereis dumerilii,547.5,0,0,0,0,0,0,0,0,0
+GCA_040966955.1_ASM4096695v1,Annelida,Polychaeta,Phyllodocida,Polynoidae,Arctonoe,Arctonoe vittata,1460,0,0,0,0,0,0,0,0,0
+GCA_942159475.1_wpSthLimi1.1,Annelida,Polychaeta,Phyllodocida,Sigalionidae,Sthenelais,Sthenelais limicola,1095,0,0,0,0,0,0,0,0,0
+GCA_000326865.1_Helobdella_robusta_v1.0,Annelida,Clitellata,Rhynchobdellida,Glossiphoniidae,Helobdella,Helobdella robusta,331,0,0,0,0,0,0,0,0,0
+GCA_964276725.1_wrPlaCost1.1,Annelida,Clitellata,Rhynchobdellida,Glossiphoniidae,Placobdella,Placobdella costata,922.6388889,0,0,0,0,0,0,0,0,0
+GCA_903813345.2_Owenia_chromosome,Annelida,Polychaeta,Sabellida,Oweniidae,Owenia,Owenia fusiformis,1368.75,0,0,0,0,0,0,0,0,0
+GCA_964340945.1_wsSabSpal1.2,Annelida,Polychaeta,Sabellida,Sabellidae,Sabella,Sabella spallanzanii,1825,0,0,0,0,0,0,0,0,0
+GCA_001703475.1_H_elegans_v1.0,Annelida,Polychaeta,Sabellida,Serpulidae,Hydroides,Hydroides elegans,304.1666667,0,0,0,0,0,0,0,0,0
+GCA_963995525.1_wsEscSpic3.1,Annelida,Polychaeta,Sabellida,Siboglinidae,Escarpia,Escarpia spicata,91250,0,0,0,0,0,0,0,0,0
+GCA_009193005.1_LLUY_1.0,Annelida,Polychaeta,Sabellida,Siboglinidae,Lamellibrachia,Lamellibrachia luymesi,85045,0,0,0,0,0,0,0,0,0
+GCA_025642075.2_R07B-5,Annelida,Polychaeta,Sabellida,Siboglinidae,Ridgeia,Ridgeia piscesae,7300,0,0,0,0,0,0,0,0,0
+GCA_964019135.1_wuAreMari1.1,Annelida,Polychaeta,Scolecida,Arenicolidae,Arenicola,Arenicola marina,1825,0,0,0,0,0,0,0,0,0
+GCA_000328365.1_Capca1,Annelida,Polychaeta,Scolecida,Capitellidae,Capitella,Capitella teleta,121.0416667,0,0,0,0,0,0,0,0,0
+GCA_035585475.1_ASM3558547v1,Annelida,Polychaeta,Scolecida,Opheliidae,Armandia,Armandia brevis,42,0,0,0,0,0,0,0,0,0
+GCA_019095985.1_ASM1909598v1,Annelida,Polychaeta,Spionida,Spionidae,Streblospio,Streblospio benedicti,385.3333333,0,0,0,0,0,0,0,0,0
+GCA_964017125.1_wfFlaComm2.1,Annelida,Polychaeta,Terebellida,Flabelligeridae,Flabesymbios,Flabesymbios commensalis,1095,0,0,0,0,0,0,0,0,0
+GCA_964023285.1_Lsc-v1-1,Arthropoda (Chelicerata),Arachnida,Araneae,Araneidae,Larinioides,Larinioides sclopetarius,595,0,0,0,0,0,0,0,0,0
+GCA_963978545.1_qqLinTria7.1,Arthropoda (Chelicerata),Arachnida,Araneae,Linyphiidae,Linyphia,Linyphia triangularis,264.625,0,0,0,0,0,0,0,0,0
+GCA_019973935.1_Tncv_1.0,Arthropoda (Chelicerata),Arachnida,Araneae,Nephilidae,Trichonephila,Trichonephila clavipes,365,0,0,0,0,0,0,0,0,0
+GCA_001188405.1_Lrec_1.0,Arthropoda (Chelicerata),Arachnida,Araneae,Sicariidae,Loxosceles,Loxosceles reclusa,1825,0,0,0,0,0,0,0,0,0
+GCA_000661875.1_Agen_v1,Arthropoda (Chelicerata),Arachnida,Araneae,Theraphosidae,Acanthoscurria,Acanthoscurria geniculata,3491,0,0,0,0,0,0,0,0,0
+GCA_029532675.1_ASM2953267v1,Arthropoda (Chelicerata),Arachnida,Ixodida,Argasidae,Ornithodoros,Ornithodoros moubata,4197.5,0,0,0,0,0,0,0,0,0
+GCA_037126465.1_ASM3712646v1,Arthropoda (Chelicerata),Arachnida,Ixodida,Argasidae,Ornithodoros,Ornithodoros turicata,3650,0,0,0,0,0,0,0,0,0
+GCA_028455905.1_GZU_Ncal_1.0,Arthropoda (Chelicerata),Arachnida,Mesostigmata,Phytoseiidae,Neoseiulus,Neoseiulus californicus,94.27333333,0,0,0,0,0,0,0,0,0
+GCA_030710605.1_ASM3071060v1,Arthropoda (Chelicerata),Arachnida,Pseudoscorpiones,Chernetidae,Cordylochernes,Cordylochernes scorpioides,365,0,0,0,0,0,0,0,0,0
+GCA_000988905.1_ASM98890v1,Arthropoda (Chelicerata),Arachnida,Sarcoptiformes,Camisiidae,Platynothrus,Platynothrus peltifer,421,0,0,0,0,0,0,0,0,0
+GCA_034694965.1_ASM3469496v1,Arthropoda (Chelicerata),Arachnida,Sarcoptiformes,Ceratozetidae,Ceratozetes,Ceratozetes gracilis,4730,0,0,0,0,0,0,0,0,0
+GCA_034702105.1_ASM3470210v1,Arthropoda (Chelicerata),Arachnida,Sarcoptiformes,Ceratozetidae,Fuscozetes,Fuscozetes fuscipes,26,0,0,0,0,0,0,0,0,0
+GCA_034697745.1_ASM3469774v1,Arthropoda (Chelicerata),Arachnida,Sarcoptiformes,Nothridae,Nothrus,Nothrus palustris,351,0,0,0,0,0,0,0,0,0
+GCA_033995675.1_ASM3399567v1,Arthropoda (Chelicerata),Arachnida,Sarcoptiformes,Nothridae,Nothrus,Nothrus silvestris,221,0,0,0,0,0,0,0,0,0
+GCA_905397405.1_1_On_b1v03.max_arth_b2g_droso_b2g_emblv2,Arthropoda (Chelicerata),Arachnida,Sarcoptiformes,Oppiidae,Oppiella,Oppiella nova,60,0,0,0,0,0,0,0,0,0
+GCA_034700185.1_ASM3470018v1,Arthropoda (Chelicerata),Arachnida,Sarcoptiformes,Phthiracaridae,Phthiracarus,Phthiracarus laevigatus,169,0,0,0,0,0,0,0,0,0
+GCA_034698365.1_ASM3469836v1,Arthropoda (Chelicerata),Arachnida,Sarcoptiformes,Steganacaridae,Steganacarus,Steganacarus magnus,1095,0,0,0,0,0,0,0,0,0
+GCA_018873245.2_Caltech_Along_2.0,Arthropoda (Chelicerata),Arachnida,Sarcoptiformes,Trhypochthoniidae,Archegozetes,Archegozetes longisetosus,280,0,0,0,0,0,0,0,0,0
+GCA_030686945.2_ASM3068694v2,Arthropoda (Chelicerata),Arachnida,Scorpiones,Buthidae,Centruroides,Centruroides vittatus,1460,0,0,0,0,0,0,0,0,0
+GCA_036759885.1_ASM3675988v1,Arthropoda (Chelicerata),Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus piercei,51,0,0,0,0,0,0,0,0,0
+GCA_028476895.1_ASM2847689v1,Arthropoda (Chelicerata),Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus truncatus,48,0,0,0,0,0,0,0,0,0
+GCA_000239435.1_ASM23943v1,Arthropoda (Chelicerata),Arachnida,Trombidiformes,Tetranychidae,Tetranychus,Tetranychus urticae,50,0,0,0,0,0,0,0,0,0
+GCA_000517525.1_Limulus_polyphemus-2.1.2,Arthropoda (Chelicerata),Merostomata,Xiphosura,Limulidae,Limulus,Limulus polyphemus,7026.25,0,0,0,0,0,0,0,0,0
+GCA_014155125.1_IMCB_Tgig_1.0,Arthropoda (Chelicerata),Merostomata,Xiphosura,Limulidae,Tachypleus,Tachypleus gigas,6570,0,0,0,0,0,0,0,0,0
+GCA_004210375.1_ASM421037v1,Arthropoda (Chelicerata),Merostomata,Xiphosura,Limulidae,Tachypleus,Tachypleus tridentatus,5475,0,0,0,0,0,0,0,0,0
+GCA_947561585.1_Caprella_mutica_genome,Arthropoda (Mandibulata),Crustacea,Amphipoda,Caprellidae,Caprella,Caprella mutica,501.875,0,0,0,0,0,0,0,0,0
+GCA_000764305.4_Hazt_2.0.2,Arthropoda (Mandibulata),Crustacea,Amphipoda,Hyalellidae,Hyalella,Hyalella azteca,185,0,0,0,0,0,0,0,0,0
+GCA_037179465.1_ASM3717946v1,Arthropoda (Mandibulata),Crustacea,Amphipoda,Phronimidae,Phronima,Phronima sedentaria,365,0,0,0,0,0,0,0,0,0
+GCA_027921565.1_ASM2792156v1,Arthropoda (Mandibulata),Crustacea,Anostraca,Artemiidae,Artemia,Artemia sinica,127,0,0,0,1,0,0,0,0,0
+GCA_023053575.1_BRLY_1.1,Arthropoda (Mandibulata),Crustacea,Anostraca,Branchinectidae,Branchinecta,Branchinecta lynchi,139,0,0,0,1,0,0,0,0,0
+GCA_002891405.2_Csec_1.0,Arthropoda (Mandibulata),Insecta,Blattodea,Kalotermitidae,Cryptotermes,Cryptotermes secundus,1460,4745,0,0,0,0,0,1,1,0
+GCA_013340265.1_CopFor1.0,Arthropoda (Mandibulata),Insecta,Blattodea,Rhinotermitidae,Coptotermes,Coptotermes formosanus,1460,5475,0,0,0,0,0,1,2,0
+GCA_000696155.1_ZooNev1.0,Arthropoda (Mandibulata),Insecta,Blattodea,Termopsidae,Zootermopsis,Zootermopsis nevadensis,0,4854.5,0,0,0,0,0,1,2,0
+GCA_025024175.1_Rdo_ARS_Dec2018,Arthropoda (Mandibulata),Insecta,Coleoptera,Bostrichidae,Rhyzopertha,Rhyzopertha dominica,189.5,0,0,0,0,0,0,0,0,0
+GCA_028583605.1_ASM2858360v1,Arthropoda (Mandibulata),Insecta,Coleoptera,Bothrideridae,Dastarcus,Dastarcus helophoroides,1496.9,0,0,0,0,0,0,0,0,0
+GCA_000699045.2_Apla_2.0,Arthropoda (Mandibulata),Insecta,Coleoptera,Buprestidae,Agrilus,Agrilus planipennis,152.23,0,0,0,0,0,0,0,0,0
+GCA_037013635.1_ASM3701363v1,Arthropoda (Mandibulata),Insecta,Coleoptera,Chrysomelidae,Plagiodera,Plagiodera versicolora,43.11,0,0,0,0,0,0,0,0,0
+GCA_910592335.1_icAdaBipu1.1,Arthropoda (Mandibulata),Insecta,Coleoptera,Coccinellidae,Adalia,Adalia bipunctata,74.43,0,0,0,0,0,0,0,0,0
+GCA_907165205.1_icCocSept1.1,Arthropoda (Mandibulata),Insecta,Coleoptera,Coccinellidae,Coccinella,Coccinella septempunctata,69.28,0,0,0,0,0,0,0,0,0
+GCA_013387265.2_ASM1338726v2,Arthropoda (Mandibulata),Insecta,Coleoptera,Coccinellidae,Cryptolaemus,Cryptolaemus montrouzieri,81.71,0,0,0,0,0,0,0,0,0
+GCA_034092305.1_Dabb_1.0,Arthropoda (Mandibulata),Insecta,Coleoptera,Curculionidae,Diaprepes,Diaprepes abbreviatus,533.8,0,0,0,0,0,0,0,0,0
+GCA_002938485.2_Soryzae_2.0,Arthropoda (Mandibulata),Insecta,Coleoptera,Curculionidae,Sitophilus,Sitophilus oryzae,124.85,0,0,0,0,0,0,0,0,0
+GCA_025399875.3_Caltech_Dcor_3.1,Arthropoda (Mandibulata),Insecta,Coleoptera,Staphylinidae,Dalotia,Dalotia coriaria,68.95,0,0,0,0,0,0,0,0,0
+GCA_002091895.1_Cmul_gen_Assembly01,Arthropoda (Mandibulata),Crustacea,Decapoda,Atyidae,Caridina,Caridina multidentata,2190,0,0,0,0,0,0,0,0,0
+GCA_040365845.1_IAB_Nden_1,Arthropoda (Mandibulata),Crustacea,Decapoda,Atyidae,Neocaridina,Neocaridina denticulata,511,0,0,0,0,0,0,0,0,0
+GCA_040958095.1_FALCON_Pclarkii_2.0,Arthropoda (Mandibulata),Crustacea,Decapoda,Cambaridae,Procambarus,Procambarus clarkii,1776.333333,0,0,0,0,0,0,0,0,0
+GCA_020271785.1_DKFZ_Pvir_1.0,Arthropoda (Mandibulata),Crustacea,Decapoda,Cambaridae,Procambarus,Procambarus virginalis,1606,0,1,0,0,0,0,0,0,0
+GCA_029783475.1_ASM2978347v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Cancridae,Metacarcinus,Metacarcinus magister,2737.5,0,0,0,0,0,0,0,0,0
+GCA_018397915.1_ASM1839791v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Coenobitidae,Birgus,Birgus latro,21900,0,0,0,0,0,0,0,0,0
+GCA_018397895.1_paralithodes_camtschaticus,Arthropoda (Mandibulata),Crustacea,Decapoda,Lithodidae,Paralithodes,Paralithodes camtschaticus,7300,0,0,0,0,0,0,0,0,0
+GCA_032716605.1_ASM3271660v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Lithodidae,Paralithodes,Paralithodes platypus,15330,0,0,0,0,0,0,0,0,0
+GCA_016584305.1_ASM1658430v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Majidae,Chionoecetes,Chionoecetes opilio,2664.5,0,0,0,0,0,0,0,0,0
+GCA_018991925.1_GMGI_Hamer_2.0,Arthropoda (Mandibulata),Crustacea,Decapoda,Nephropidae,Homarus,Homarus americanus,12045,0,0,0,0,0,0,0,0,0
+GCA_958450375.1_Homarus_gammarus,Arthropoda (Mandibulata),Crustacea,Decapoda,Nephropidae,Homarus,Homarus gammarus,14600,0,0,0,0,0,0,0,0,0
+GCA_044707065.1_ASM4470706v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Palaemonidae ,Macrobrachium,Macrobrachium hainanense,1460,0,0,0,0,0,0,0,0,0
+GCA_040412425.1_ASM4041242v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Palaemonidae ,Macrobrachium,Macrobrachium rosenbergii,1095,0,0,0,0,0,0,0,0,0
+GCA_038088735.1_ASM3808873v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Palinuridae,Panulirus,Panulirus argus,9125,0,0,0,0,0,0,0,0,0
+GCA_032361485.1_ASM3236148v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Palinuridae,Panulirus,Panulirus cygnus,9855,0,0,0,0,0,0,0,0,0
+GCA_040182845.1_ASM4018284v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Pandalidae,Pandalus,Pandalus borealis,3163.333333,0,0,0,0,0,0,0,0,0
+GCA_009830355.1_DU_Cdes_1.0,Arthropoda (Mandibulata),Crustacea,Decapoda,Parastacidae,Cherax,Cherax destructor,2190,0,0,0,0,0,0,0,0,0
+GCA_038502225.1_ASM3850222v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Parastacidae,Cherax,Cherax quadricarinatus,1825,0,0,0,0,0,0,0,0,0
+GCA_018983055.3_CIBA_Pind_1.3,Arthropoda (Mandibulata),Crustacea,Decapoda,Penaeidae ,Penaeus,Penaeus indicus,949,0,0,0,0,0,0,0,0,0
+GCA_017312705.2_Mj_TUMSAT_v1.0,Arthropoda (Mandibulata),Crustacea,Decapoda,Penaeidae ,Penaeus,Penaeus japonicus,1079.791667,0,0,0,0,0,0,0,0,0
+GCA_015228065.1_NSTDA_Pmon_1,Arthropoda (Mandibulata),Crustacea,Decapoda,Penaeidae ,Penaeus,Penaeus monodon,730,0,0,0,0,0,0,0,0,0
+GCA_020233015.1_Csap_IMET_v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Portunidae,Callinectes,Callinectes sapidus,2920,0,0,0,0,0,0,0,0,0
+GCA_035046885.1_ASM3504688v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Portunidae,Portunus,Portunus pelagicus,730,0,0,0,0,0,0,0,0,0
+GCA_024679095.1_ASM2467909v1,Arthropoda (Mandibulata),Crustacea,Decapoda,Varunidae,Eriocheir,Eriocheir sinensis,365,0,0,0,0,0,0,0,0,0
+GCA_013387435.1_dubia_v0.01,Arthropoda (Mandibulata),Crustacea,Diplostraca,Daphniidae,Daphnia,Daphnia dubia,125,0,1,0,1,0,0,0,0,0
+GCA_030770115.1_ASM3077011v1,Arthropoda (Mandibulata),Crustacea,Diplostraca,Daphniidae,Daphnia,Daphnia galeata,90,0,1,0,1,0,0,0,0,0
+GCA_020631705.2_ASM2063170v1.1,Arthropoda (Mandibulata),Crustacea,Diplostraca,Daphniidae,Daphnia,Daphnia magna,88.5,0,1,0,1,0,0,0,0,0
+GCA_021134715.1_ASM2113471v1,Arthropoda (Mandibulata),Crustacea,Diplostraca,Daphniidae,Daphnia,Daphnia pulex,99.5,0,1,0,1,0,0,0,0,0
+GCA_021234035.2_SC_F0-13Bv2,Arthropoda (Mandibulata),Crustacea,Diplostraca,Daphniidae,Daphnia,Daphnia pulicaria,106,0,1,0,1,0,0,0,0,0
+GCA_041003635.1_ASM4100363v1,Arthropoda (Mandibulata),Crustacea,Diplostraca,Daphniidae,Simocephalus,Simocephalus vetulus,62,0,1,0,1,0,0,0,0,0
+GCA_022114935.1_LDALM_2021,Arthropoda (Mandibulata),Crustacea,Diplostraca,Leptestheriidae,Leptestheria,Leptestheria dahalacensis,63,0,0,0,1,0,0,0,0,0
+GCA_002872375.1_clam_shrimp_assembly_v0.1,Arthropoda (Mandibulata),Crustacea,Diplostraca,Limnadiidae,Eulimnadia,Eulimnadia texana,22,0,0,0,1,0,0,0,0,0
+GCA_958450345.1_idCalVici1.1,Arthropoda (Mandibulata),Insecta,Diptera,Calliphoridae,Calliphora,Calliphora vicina,116.95,0,0,0,0,0,0,0,0,0
+GCA_030463065.1_ASM3046306v1,Arthropoda (Mandibulata),Insecta,Diptera,Cecidomyiidae,Aphidoletes,Aphidoletes aphidimyza,62.5,0,0,0,0,0,0,0,0,0
+GCA_000441895.2_AS2,Arthropoda (Mandibulata),Insecta,Diptera,Culicidae,Anopheles,Anopheles sinensis,16.16,0,0,0,0,0,0,0,0,0
+GCA_015732765.1_VPISU_Cqui_1.0_pri_paternal,Arthropoda (Mandibulata),Insecta,Diptera,Culicidae,Culex,Culex quinquefasciatus,91.42,0,0,0,0,0,0,0,0,0
+GCA_000001215.4_Release_6_plus_ISO1_MT,Arthropoda (Mandibulata),Insecta,Diptera,Drosophilidae,Drosophila,Drosophila melanogaster,69.64,0,0,0,0,0,0,0,0,0
+GCA_043229965.1_CBGP_Dsuzu_IsoJpt1.0,Arthropoda (Mandibulata),Insecta,Diptera,Drosophilidae,Drosophila,Drosophila suzukii,97.8,0,0,0,0,0,0,0,0,0
+GCA_963082655.1_idStoCalc2.1,Arthropoda (Mandibulata),Insecta,Diptera,Muscidae,Stomoxys,Stomoxys calcitrans,53,0,0,0,0,0,0,0,0,0
+GCA_000341915.2_ASM34191v2,Arthropoda (Mandibulata),Insecta,Diptera,Phoridae,Megaselia,Megaselia scalaris,60.28,0,0,0,0,0,0,0,0,0
+GCA_040938175.1_ASM4093817v1,Arthropoda (Mandibulata),Insecta,Diptera,Scathophagidae,Scathophaga,Scathophaga stercoraria,59.47,0,0,0,0,0,0,0,0,0
+GCA_001014335.1_ASM101433v1,Arthropoda (Mandibulata),Insecta,Diptera,Scatopsidae,Coboldia,Coboldia fuscipes,26.41,0,0,0,0,0,0,0,0,0
+GCA_016920775.1_B2019C,Arthropoda (Mandibulata),Insecta,Diptera,Sciaridae,Bradysia,Bradysia odoriphaga,29.81,0,0,0,0,0,0,0,0,0
+GCA_023373825.1_ASM2337382v1,Arthropoda (Mandibulata),Insecta,Diptera,Tephritidae,Bactrocera,Bactrocera dorsalis,132.05,0,0,0,0,0,0,0,0,0
+GCA_000347755.4_Ccap_2.1,Arthropoda (Mandibulata),Insecta,Diptera,Tephritidae,Ceratitis,Ceratitis capitata,99.3,0,0,0,0,0,0,0,0,0
+GCA_949628265.1_ieCloDipt1.1,Arthropoda (Mandibulata),Insecta,Ephemeroptera,Baetidae,Cloeon,Cloeon dipterum,235.6196319,0,0,0,0,0,0,0,0,0
+GCA_964058975.1_Mnor_HA_v2,Arthropoda (Mandibulata),Crustacea,Euphausiacea,Euphausiidae,Meganyctiphanes,Meganyctiphanes norvegica,730,0,0,0,0,0,0,0,0,0
+GCA_000239455.1_Smar_1.0,Arthropoda (Mandibulata),Chilopoda,Geophilomorpha,Linotaeniidae,Strigamia,Strigamia maritima,2190,0,0,0,0,0,0,0,0,0
+GCA_034696005.1_ASM3469600v1,Arthropoda (Mandibulata),Diplopoda,Glomerida,Glomeridae,Glomeris,Glomeris marginata,3650,0,0,0,0,0,0,0,0,0
+GCA_003268045.1_YSA_version1,Arthropoda (Mandibulata),Insecta,Hemiptera,Aphididae,Sipha,Sipha flava,43,0,0,0,0,0,0,0,0,0
+GCA_028571305.1_ASM2857130v1,Arthropoda (Mandibulata),Insecta,Hemiptera,Cicadidae,Magicicada,Magicicada cassini,6205,0,0,0,0,0,0,0,0,0
+GCA_011326945.2_ASM1132694v2,Arthropoda (Mandibulata),Insecta,Hemiptera,Cicadidae,Magicicada,Magicicada septendecim,6205,0,0,0,0,0,0,0,0,0
+GCA_034769895.1_Decula_1.0,Arthropoda (Mandibulata),Insecta,Hemiptera,Cicadidae,Magicicada,Magicicada septendecula,6205,0,0,0,0,0,0,0,0,0
+GCA_002740975.1_10MxCF,Arthropoda (Mandibulata),Crustacea,Hexanauplia,Calanidae,Calanus,Calanus finmarchicus,446.1111111,0,0,0,0,1,0,0,0,0
+GCA_002740985.1_10MxCG,Arthropoda (Mandibulata),Crustacea,Hexanauplia,Calanidae,Calanus,Calanus glacialis,730,0,0,0,0,0,0,0,0,0
+GCA_016086655.4_UVic_Lsal_1.3,Arthropoda (Mandibulata),Crustacea,Hexanauplia,Caligidae,Lepeophtheirus,Lepeophtheirus salmonis,212.85,0,0,0,0,0,0,0,0,1
+GCA_007210705.1_Tcal_SD_v2.1,Arthropoda (Mandibulata),Crustacea,Hexanauplia,Harpacticidae,Tigriopus,Tigriopus californicus,182.5,0,0,0,0,1,0,0,0,0
+GCA_900157175.1_O_NANA_1,Arthropoda (Mandibulata),Crustacea,Hexanauplia,Oithonidae,Oithona,Oithona nana,42,0,0,0,0,0,0,0,0,0
+GCA_900659605.1_ASM90065960v1,Arthropoda (Mandibulata),Crustacea,Hexanauplia,Tisbidae,Tisbe,Tisbe holothuriae,14.67,0,0,0,0,0,0,0,0,0
+GCA_038277355.1_ASM3827735v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Aphelinidae,Encarsia,Encarsia formosa,54.5,0,0,0,0,0,0,0,0,1
+GCA_951804975.1_iyAntPlum1.1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Apidae,Anthophora,Anthophora plumipes,14,0,0,0,0,0,0,0,0,0
+GCA_003254395.2_Amel_HAv3.1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Apidae,Apis,Apis mellifera,51,591,0,0,0,0,0,1,2,0
+GCA_910591885.2_iyBomTerr1.2,Arthropoda (Mandibulata),Insecta,Hymenoptera,Apidae,Bombus,Bombus terrestris,42,88,0,0,0,0,0,1,1,0
+GCA_036937485.2_jatai_v2,Arthropoda (Mandibulata),Insecta,Hymenoptera,Apidae,Tetragonisca,Tetragonisca angustula,50,1825,0,0,0,0,0,1,2,0
+GCA_963969455.1_iyArgPaga1.1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Argidae,Arge,Arge pagana,30.26,0,0,0,0,0,0,0,0,0
+GCA_003055095.1_ASM305509v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Bethylidae,Goniozus,Goniozus legneri,110.56,0,0,0,0,0,0,0,0,1
+GCA_024137725.2_Cenicafe_Pnas_1.2,Arthropoda (Mandibulata),Insecta,Hymenoptera,Bethylidae,Prorops,Prorops nasuta,71.5,0,0,0,0,0,0,0,0,0
+GCA_015776835.1_Ae_genome_v2,Arthropoda (Mandibulata),Insecta,Hymenoptera,Braconidae,Aphidius,Aphidius ervi,18,0,0,0,0,0,0,0,0,1
+GCA_040285435.1_ASM4028543v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Chalcididae,Brachymeria,Brachymeria lasus,67.09,0,0,0,0,0,0,0,0,1
+GCA_003063815.1_AJDMW,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Aphaenogaster,Aphaenogaster rudis,1139.5,4826,0,0,0,0,0,1,2,0
+GCA_000143395.3_Attacep1.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Atta,Atta cephalotes,0,4745,0,0,0,0,0,1,2,0
+GCA_001594045.1_Acol1.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Atta,Atta colombica,240.8333333,3710.833333,0,0,0,0,0,1,2,0
+GCA_030586385.1_ASM3058638v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Camponotus,Camponotus fellah,310.8333333,9490,0,0,0,0,0,1,2,0
+GCA_003651465.1_ASM365146v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Formica,Formica exsecta,547.5,7300,0,0,0,0,0,1,2,0
+GCA_009859135.1_ASM985913v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Formica,Formica selysi,0,3694,0,0,0,0,0,1,2,0
+GCA_030770355.1_hsub_v1.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Harpagoxenus,Harpagoxenus sublaevis,1095,5110,0,0,0,0,0,1,2,0
+GCA_003227715.2_Hsal_v8.6,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Harpegnathos,Harpegnathos saltator,912.5,1862.5,0,0,0,0,0,1,2,0
+GCA_041902855.1_ASM4190285v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Lasius,Lasius niger,730,10402.5,0,0,0,0,0,1,2,0
+GCA_035220615.1_lace_v1.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Leptothorax,Leptothorax acervorum,0,4015,0,0,0,0,0,1,2,0
+GCA_040581485.1_Lhum_UNIL_v1.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Linepithema,Linepithema humile,479,575.25,0,0,0,0,0,1,2,0
+GCA_013373865.2_ASM1337386v2,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Monomorium,Monomorium pharaonis,99.1,306.95,0,0,0,0,0,1,2,0
+GCA_000187915.1_Pbar_UMD_V03,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Pogonomyrmex,Pogonomyrmex barbatus,0,7300,0,0,0,0,0,1,2,0
+GCA_016802725.1_UNIL_Sinv_3.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Solenopsis,Solenopsis invicta,518.5,2410.5,0,0,0,0,0,1,2,0
+GCA_030848795.1_tnyl_v1.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Temnothorax,Temnothorax nylanderi,1110,6935,0,0,0,0,0,1,2,0
+GCA_030770225.1_tuni_v1.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Temnothorax,Temnothorax unifasciatus,1095,4380,0,0,0,0,0,1,2,0
+GCA_001594115.1_Tsep1.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Trachymyrmex,Trachymyrmex septentrionalis,760.4166667,2707.083333,0,0,0,0,0,1,2,0
+GCA_001594055.1_Tzet1.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Trachymyrmex,Trachymyrmex zeteki,760.4166667,1855.416667,0,0,0,0,0,1,2,0
+GCA_000956235.1_wasmannia.A_1.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Formicidae,Wasmannia,Wasmannia auropunctata,60,401.5,0,0,0,0,0,1,2,0
+GCA_028454255.1_HLIG_v2.2.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Halictidae,Halictus,Halictus ligatus,49,119,0,0,0,0,0,1,1,0
+GCA_028455795.1_LMAR_v2.2.0,Arthropoda (Mandibulata),Insecta,Hymenoptera,Halictidae,Lasioglossum,Lasioglossum marginatum,456.25,2190,0,0,0,0,0,1,1,0
+GCA_037043255.1_ASM3704325v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Ichneumonidae,Diadegma,Diadegma fenestrale,23.5,0,0,0,0,0,0,0,0,1
+GCA_011421695.1_ASM1142169v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Ichneumonidae,Diadegma,Diadegma semiclausum,59.7,0,0,0,0,0,0,0,0,0
+GCA_963662125.1_iyDipLaet1.1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Ichneumonidae,Diplazon,Diplazon laetatorius,70.5,0,0,0,0,0,0,0,0,1
+GCA_025433975.1_ASM2543397v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Vespidae,Liostenogaster,Liostenogaster flavolineata,200,348.5,0,0,0,0,0,1,1,0
+GCA_001313835.1_ASM131383v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Vespidae,Polistes,Polistes canadensis,546.77,0,0,0,0,0,0,1,1,0
+GCA_001465965.1_Pdom_r1.2,Arthropoda (Mandibulata),Insecta,Hymenoptera,Vespidae,Polistes,Polistes dominula,106,171,0,0,0,0,0,1,1,0
+GCA_023678865.1_ASM2367886v1,Arthropoda (Mandibulata),Insecta,Hymenoptera,Vespidae,Polistes,Polistes exclamans,63,161,0,0,0,0,0,1,1,0
+GCA_010416935.1_CU_Pfus_HIC,Arthropoda (Mandibulata),Insecta,Hymenoptera,Vespidae,Polistes,Polistes fuscatus,71,116,0,0,0,0,0,1,1,0
+GCA_001887335.1_A_vulgare_v1,Arthropoda (Mandibulata),Crustacea,Isopoda,Armadillidiidae,Armadillidium,Armadillidium vulgare,730,0,0,0,0,0,0,0,0,0
+GCA_964212115.1_qmAseAqua29.1,Arthropoda (Mandibulata),Crustacea,Isopoda,Asellidae,Asellus,Asellus aquaticus,387.8125,0,0,0,0,0,0,0,0,0
+GCA_023373965.1_Ibalt_v1,Arthropoda (Mandibulata),Crustacea,Isopoda,Idoteidae,Idotea,Idotea baltica,425.8333333,0,0,0,0,0,0,0,0,0
+GCA_002091915.1_Lexo_gen_Assembly01,Arthropoda (Mandibulata),Crustacea,Isopoda,Ligiidae,Ligia,Ligia exotica,602.25,0,0,0,0,0,0,0,0,0
+GCA_034700385.1_ASM3470038v1,Arthropoda (Mandibulata),Crustacea,Isopoda,Porcellionidae,Porcellio,Porcellio scaber,1095,0,0,0,0,0,0,0,0,0
+GCA_034700725.1_ASM3470072v1,Arthropoda (Mandibulata),Crustacea,Isopoda,Trichoniscidae,Trichoniscus,Trichoniscus pusillus,791,0,1,0,0,0,0,0,0,0
+GCA_034700285.1_ASM3470028v1,Arthropoda (Mandibulata),Diplopoda,Julida,Blaniulidae,Proteroiulus,Proteroiulus fuscus,3285,0,0,0,0,0,0,0,0,0
+GCA_034695085.1_ASM3469508v1,Arthropoda (Mandibulata),Diplopoda,Julida,Julidae,Cylindroiulus,Cylindroiulus punctatus,1460,0,0,0,0,0,0,0,0,0
+GCA_034696685.1_ASM3469668v1,Arthropoda (Mandibulata),Diplopoda,Julida,Julidae,Julus,Julus scandinavius,1095,0,0,0,0,0,0,0,0,0
+GCA_033995625.1_ASM3399562v1,Arthropoda (Mandibulata),Diplopoda,Julida,Julidae,Ophyiulus,Ophyiulus pilosus,1095,0,0,0,0,0,0,0,0,0
+GCA_034698465.1_ASM3469846v1,Arthropoda (Mandibulata),Diplopoda,Julida,Julidae,Tachypodoiulus,Tachypodoiulus niger,3285,0,0,0,0,0,0,0,0,0
+GCA_034693985.1_ASM3469398v1,Arthropoda (Mandibulata),Diplopoda,Julida,Nemasomatidae,Nemasoma,Nemasoma varicorne,1095,0,0,0,0,0,0,0,0,0
+GCA_024362695.1_ilPecGoss1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Gelechiidae,Pectinophora,Pectinophora gossypiella,53.16,0,0,0,0,0,0,0,0,0
+GCA_024500475.1_ASM2450047v1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Gelechiidae,Phthorimaea,Phthorimaea operculella,44.1,0,0,0,0,0,0,0,0,0
+GCA_944567765.1_ilCarPala2.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Hesperiidae,Carterocephalus,Carterocephalus palaemon,349,0,0,0,0,0,0,0,0,0
+GCA_905404135.1_ilHesComm1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Hesperiidae,Hesperia,Hesperia comma,136.33,0,0,0,0,0,0,0,0,0
+GCA_911387765.1_ilPyrMalv3.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Hesperiidae,Pyrgus,Pyrgus malvae,348.58,0,0,0,0,0,0,0,0,0
+GCA_963932265.1_ilThyLine1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Hesperiidae,Thymelicus,Thymelicus lineola,112,0,0,0,0,0,0,0,0,0
+GCA_911387775.1_ilThySylv1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Hesperiidae,Thymelicus,Thymelicus sylvestris,348,0,0,0,0,0,0,0,0,0
+GCA_905187575.2_ilCelArgi3.2,Arthropoda (Mandibulata),Insecta,Lepidoptera,Lycaenidae,Celastrina,Celastrina argiolus,59.5,0,0,0,0,0,0,0,0,0
+GCA_964656195.1_ilLamBoet1.hap1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Lycaenidae,Lampides,Lampides boeticus,60.5,0,0,0,0,0,0,0,0,0
+GCA_937595015.1_ilPolIcar1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Lycaenidae,Polyommatus,Polyommatus icarus,71.85,0,0,0,0,0,0,0,0,0
+GCA_964274205.1_ilSatPrun1.hap1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Lycaenidae,Satyrium,Satyrium pruni,47,0,0,0,0,0,0,0,0,0
+GCA_022581195.1_ilHelZeax1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Noctuidae,Helicoverpa,Helicoverpa zea,49.37,0,0,0,0,0,0,0,0,0
+GCA_002382865.2_ASM238286v2,Arthropoda (Mandibulata),Insecta,Lepidoptera,Noctuidae,Heliothis,Heliothis virescens,47.49,0,0,0,0,0,0,0,0,0
+GCA_003590095.1_tn1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Noctuidae,Trichoplusia,Trichoplusia ni,35.2,0,0,0,0,0,0,0,0,0
+GCA_951802675.2_ilBolEuph2.2,Arthropoda (Mandibulata),Insecta,Lepidoptera,Nymphalidae,Boloria,Boloria euphrosyne,364,0,0,0,0,0,0,0,0,0
+GCA_905231865.2_ilBolSele5.2,Arthropoda (Mandibulata),Insecta,Lepidoptera,Nymphalidae,Boloria,Boloria selene,350.5,0,0,0,0,0,0,0,0,0
+GCA_018135715.1_MEX_DaPlex,Arthropoda (Mandibulata),Insecta,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus,69.83,0,0,0,0,0,0,0,0,0
+GCA_923060345.2_ilEreAeth2.2,Arthropoda (Mandibulata),Insecta,Lepidoptera,Nymphalidae,Erebia,Erebia aethiops,365.5,0,0,0,0,0,0,0,0,0
+GCA_963932025.1_ilEreEpip2.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Nymphalidae,Erebia,Erebia epiphron,318.35,0,0,0,0,0,0,0,0,0
+GCA_928268935.1_ilLasMege1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Nymphalidae,Lasiommata,Lasiommata megera,58.73,0,0,0,0,0,0,0,0,0
+GCA_905333055.1_ilManJurt1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Nymphalidae,Maniola,Maniola jurtina,303.88,0,0,0,0,0,0,0,0,0
+GCA_920104075.1_ilMelGala2.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Nymphalidae,Melanargia,Melanargia galathea,381.78,0,0,0,0,0,0,0,0,0
+GCA_905163445.1_ilParAegt1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Nymphalidae,Pararge,Pararge aegeria,159.64,0,0,0,0,0,0,0,0,0
+GCA_905147765.2_ilVanAtal1.2,Arthropoda (Mandibulata),Insecta,Lepidoptera,Nymphalidae,Vanessa,Vanessa atalanta,93.5,0,0,0,0,0,0,0,0,0
+GCA_947369225.1_ilHofPseu3.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Oecophoridae,Hofmannophila,Hofmannophila pseudospretella,120.1,0,0,0,0,0,0,0,0,0
+GCA_964258725.1_ilColHyal1.hap1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Pieridae,Colias,Colias hyale,36,0,0,0,0,0,0,0,0,0
+GCA_905404315.1_ilLepSina1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Pieridae,Leptidea,Leptidea sinapis,199.55,0,0,0,0,0,0,0,0,0
+GCA_905147105.1_ilPieBrab1.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Pieridae,Pieris,Pieris brassicae,200,0,0,0,0,0,0,0,0,0
+GCA_905475465.2_ilPieNapi1.2,Arthropoda (Mandibulata),Insecta,Lepidoptera,Pieridae,Pieris,Pieris napi,61.75,0,0,0,0,0,0,0,0,0
+GCA_932276165.1_ilPluXylo3.1,Arthropoda (Mandibulata),Insecta,Lepidoptera,Plutellidae,Plutella,Plutella xylostella,48.16,0,0,0,0,0,0,0,0,0
+GCA_921024065.1_Genome_ASM_M6_M11_kdef_b300,Arthropoda (Mandibulata),Insecta,Lepidoptera,Pyralidae,Ephestia,Ephestia kuehniella,59.97,0,0,0,0,0,0,0,0,0
+GCA_027563975.2_ilPloInte3.2,Arthropoda (Mandibulata),Insecta,Lepidoptera,Pyralidae,Plodia,Plodia interpunctella,29.7,0,0,0,0,0,0,0,0,0
+GCA_034697205.1_ASM3469720v1,Arthropoda (Mandibulata),Chilopoda,Lithobiomorpha,Lithobiidae,Lithobius,Lithobius forficatus,2190,0,0,0,0,0,0,0,0,0
+GCA_034697385.1_ASM3469738v1,Arthropoda (Mandibulata),Chilopoda,Lithobiomorpha,Lithobiidae,Lithobius,Lithobius mutabilis,1825,0,0,0,0,0,0,0,0,0
+GCA_003724045.1_ASM372404v1,Arthropoda (Mandibulata),Crustacea,Notostraca,Triopsidae,Lepidurus,Lepidurus arcticus,365,0,1,0,1,0,0,0,0,0
+GCA_023053545.1_LEPA1.1,Arthropoda (Mandibulata),Crustacea,Notostraca,Triopsidae,Lepidurus,Lepidurus packardi,168,0,1,0,1,0,0,0,0,0
+GCA_020615345.1_EvoH_TcaCAE_1.0,Arthropoda (Mandibulata),Crustacea,Notostraca,Triopsidae,Triops,Triops cancriformis,76.19166667,0,1,0,1,0,0,0,0,0
+GCA_921293095.2_ioIscEleg1.2,Arthropoda (Mandibulata),Insecta,Odonata,Coenagrionidae,Ischnura,Ischnura elegans,69,0,0,0,0,0,0,0,0,0
+GCA_023897955.2_iqSchGreg1.2,Arthropoda (Mandibulata),Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca gregaria,61.5,100.5,0,0,0,0,1,0,0,0
+GCA_039000515.1_ASM3900051v1,Arthropoda (Mandibulata),Insecta,Phasmatodea,Timematidae,Timema,Timema cristinae,121.6666667,0,0,0,0,0,0,0,0,0
+GCA_934045905.1_ipLeuNigr2.1,Arthropoda (Mandibulata),Insecta,Plecoptera,Leuctridae,Leuctra,Leuctra nigra,730,0,0,0,0,0,0,0,0,0
+GCA_905338405.1_Nmo_b1v02_max_arth_b2g_genome,Arthropoda (Mandibulata),Crustacea,Podocopida,Cyprididae,Notodromas,Notodromas monacha,35,0,0,0,0,0,0,0,0,0
+GCA_905338395.1_Cto_b1v02_max_arth_b2g_genome,Arthropoda (Mandibulata),Crustacea,Podocopida,Cytherideidae,Cyprideis,Cyprideis torosa,365,0,0,0,0,0,0,0,0,0
+GCA_905338385.1_Dst_b1v02_max_arth_b2g_genome,Arthropoda (Mandibulata),Crustacea,Podocopida,Darwinulidae,Darwinula,Darwinula stevensoni,1460,0,1,0,0,0,0,0,0,0
+GCA_034698085.1_ASM3469808v1,Arthropoda (Mandibulata),Diplopoda,Polydesmida,Polydesmidae,Polydesmus,Polydesmus angustus,730,0,0,0,0,0,0,0,0,0
+GCA_034692225.1_ASM3469222v1,Arthropoda (Mandibulata),Diplopoda,Polydesmida,Polydesmidae,Polydesmus,Polydesmus complanatus,730,0,0,0,0,0,0,0,0,0
+GCA_037577465.1_SWU_Lb_1.0,Arthropoda (Mandibulata),Insecta,Psocoptera,Liposcelididae,Liposcelis,Liposcelis bostrychophila,250,0,0,0,0,0,0,0,0,0
+GCA_003426905.1_ASM342690v1,Arthropoda (Mandibulata),Insecta,Siphonaptera,Pulicidae,Ctenocephalides,Ctenocephalides felis,1095,0,0,0,0,0,0,0,0,0
+GCA_046742065.1_ASM4674206v1,Arthropoda (Mandibulata),Crustacea,Stomatopoda,Squillidae,Oratosquilla,Oratosquilla oratoria,1460,0,0,0,0,0,0,0,0,0
+GCA_019059575.1_NRLGWU_Aamphi_draft,Arthropoda (Mandibulata),Crustacea,Thecostraca,Balanidae,Amphibalanus,Amphibalanus amphitrite,2190,0,0,0,0,0,0,0,0,0
+GCA_964274985.1_qhAmpImpr1.1,Arthropoda (Mandibulata),Crustacea,Thecostraca,Balanidae,Amphibalanus,Amphibalanus improvisus,1095,0,0,0,0,0,0,0,0,0
+GCA_030265075.1_ASM3026507v1,Arthropoda (Mandibulata),Crustacea,Thecostraca,Balanidae,Balanus,Balanus glandula,3650,0,0,0,0,0,0,0,0,0
+GCA_014673585.1_Sbal3.1,Arthropoda (Mandibulata),Crustacea,Thecostraca,Balanidae,Semibalanus,Semibalanus balanoides,2555,0,0,0,0,0,0,0,0,0
+GCA_030323935.1_ASM3032393v1,Arthropoda (Mandibulata),Crustacea,Thecostraca,Balanidae,Semibalanus,Semibalanus cariosus,5475,0,0,0,0,0,0,0,0,0
+GCA_011947565.3_Ppol_2.1,Arthropoda (Mandibulata),Crustacea,Thecostraca,Pollicipedidae,Pollicipes,Pollicipes pollicipes,2190,0,0,0,0,0,0,0,0,0
+GCA_916048095.2_qxSacCarc1.2,Arthropoda (Mandibulata),Crustacea,Thecostraca,Sacculinidae,Sacculina,Sacculina carcini,730,0,0,0,0,0,0,0,0,0
+GCA_043773995.1_qhTetRube1.0.p,Arthropoda (Mandibulata),Crustacea,Thecostraca,Tetraclitidae,Tetraclita,Tetraclita rubescens,1460,0,0,0,0,0,0,0,0,0
+GCA_029379305.1_ASM2937930v1,Arthropoda (Mandibulata),Insecta,Thysanoptera,Thripidae,Frankliniella,Frankliniella fusca,35.83,0,0,0,0,0,0,0,0,0
+GCA_030522485.1_ASM3052248v1,Arthropoda (Mandibulata),Insecta,Thysanoptera,Thripidae,Stenchaetothrips,Stenchaetothrips biformis,21.16,0,0,0,0,0,0,0,0,0
+GCA_040581495.1_ASM4058149v1,Arthropoda (Mandibulata),Insecta,Thysanoptera,Thripidae,Thrips,Thrips tabaci,22.75,0,0,0,0,0,0,0,0,0
+GCA_936435175.1_iiGlyPell1.1,Arthropoda (Mandibulata),Insecta,Trichoptera,Limnephilidae,Glyphotaelius,Glyphotaelius pellucidus,334.5833333,0,0,0,0,0,0,0,0,0
+GCA_001039355.2_LinAna2.0,Brachiopoda,Lingulata,Lingulida,Lingulidae,Lingula,Lingula anatina,2920,0,0,0,0,0,0,0,0,0
+GCA_914767715.1_tzMemMemb1.1,Bryozoa,Gymnolaemata,Cheilostomatida,Membraniporidae,Membranipora,Membranipora membranacea,42,0,0,0,0,0,0,0,0,0
+GCA_963576615.1_tzWatSuba1.1,Bryozoa,Gymnolaemata,Cheilostomatida,Watersiporidae,Watersipora,Watersipora subatra,243.3333333,0,0,0,0,0,0,0,0,0
+GCA_039654405.1_ASM3965440v1,Mollusca,Gastropoda,Acteonimorpha,Aplustridae,Bullina,Bullina lineata,47,0,0,0,0,0,0,0,0,0
+GCA_037043455.1_xbCyrSili1_p1.0,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Cyrtodaria,Cyrtodaria siliqua,38325,0,0,0,0,0,0,0,0,0
+GCA_029582155.1_ASM2958215v1,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Panopea,Panopea generosa,48545,0,0,0,0,0,0,0,0,0
+GCA_000002075.2_AplCal3.0,Mollusca,Gastropoda,Aplysiida,Aplysiidae,Aplysia,Aplysia californica,365,0,0,0,0,0,0,0,0,0
+GCA_032273245.1_ASM3227324v1,Mollusca,Gastropoda,Aplysiida,Aplysiidae,Phyllaplysia,Phyllaplysia taylori,273.75,0,0,0,0,0,0,0,0,0
+GCA_004794575.1_ASM479457v1,Mollusca,Gastropoda,Architaenioglossa,Ampullariidae,Lanistes,Lanistes nyassanus,3650,0,0,0,0,0,0,0,0,0
+GCA_004794655.1_Mca_v2.0.fa,Mollusca,Gastropoda,Architaenioglossa,Ampullariidae,Marisa,Marisa cornuarietis,534,0,0,0,0,0,0,0,0,0
+GCA_003073045.1_ASM307304v1,Mollusca,Gastropoda,Architaenioglossa,Ampullariidae,Pomacea,Pomacea canaliculata,1137.213889,0,0,0,0,0,0,0,0,0
+GCA_004794325.1_ASM479432v1,Mollusca,Gastropoda,Architaenioglossa,Ampullariidae,Pomacea,Pomacea maculata,1095,0,0,0,0,0,0,0,0,0
+GCA_021292105.1_ASM2129210v1,Mollusca,Bivalvia,Arcoida,Arcidae,Anadara,Anadara kagoshimensis,2596.0625,0,0,0,0,0,0,0,0,0
+GCA_029721355.1_KUTeg,Mollusca,Bivalvia,Arcoida,Arcidae,Tegillarca,Tegillarca granosa,1821.616667,0,0,0,0,0,0,0,0,0
+GCA_947846245.1_V1.2,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma,Cerastoderma edule,3023.273529,0,0,0,0,0,0,0,0,0
+GCA_031471495.1_ASM3147149v1,Mollusca,Bivalvia,Cardiida,Cardiidae,Clinocardium,Clinocardium nuttallii,3668.25,0,0,0,0,0,0,0,0,0
+GCA_946902895.1_xbFraFrag2.1,Mollusca,Bivalvia,Cardiida,Cardiidae,Fragum,Fragum fragum,1460,0,0,0,0,0,0,0,0,0
+GCA_946811185.2_xbHipHipp8.3,Mollusca,Bivalvia,Cardiida,Cardiidae,Hippopus,Hippopus hippopus,14600,0,0,0,0,0,0,0,0,0
+GCA_031761405.1_xbSerGroe1_p1.0,Mollusca,Bivalvia,Cardiida,Cardiidae,Serripes,Serripes groenlandicus,9855,0,0,0,0,0,0,0,0,0
+GCA_943736015.1_xbTriCroc3.1,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,Tridacna crocea,18493.33333,0,0,0,0,0,0,0,0,0
+GCA_963210305.1_xbTriDera4.1,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,Tridacna derasa,22995,0,0,0,0,0,0,0,0,0
+GCA_945859785.2_xbTriGiga4.2,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,Tridacna gigas,41366.66667,0,0,0,0,0,0,0,0,0
+GCA_032358795.1_ASM3235879v1,Mollusca,Bivalvia,Cardiida,Psammobiidae,Nuttallia,Nuttallia obscurata,4866.666667,0,0,0,0,0,0,0,0,0
+GCA_007844125.1_ASM784412v1,Mollusca,Bivalvia,Cardiida,Solecurtidae,Sinonovacula,Sinonovacula constricta,1825,0,0,0,0,0,0,0,0,0
+GCA_964059415.1_xbMacTenu1.hap1.1,Mollusca,Bivalvia,Cardiida,Tellinidae,Macomangulus,Macomangulus tenuis,2482,0,0,0,0,0,0,0,0,0
+GCA_031471215.1_ASM3147121v1,Mollusca,Gastropoda,Cephalaspidea,Gastropteridae,Gastropteron,Gastropteron pacificum,365,0,0,0,0,0,0,0,0,0
+GCA_018292915.2_EWHU_Batt_1.5,Mollusca,Gastropoda,Cerithioidea,Batillariidae,Batillaria,Batillaria attramentaria,3650,0,0,0,0,0,0,0,0,0
+GCA_028565955.2_ASM2856595v2,Mollusca,Gastropoda,Cerithioidea,Thiaridae,Melanoides,Melanoides tuberculata,1420.8125,0,1,0,0,0,0,0,0,0
+GCA_016165875.1_ASM1616587v1,Mollusca,Polyplacophora,Chitonida,Chitonidae,Acanthopleura,Acanthopleura granulata,2069.854167,0,0,0,0,0,0,0,0,0
+GCA_031471745.1_ASM3147174v1,Mollusca,Polyplacophora,Chitonida,Mopaliidae,Cryptochiton,Cryptochiton stelleri,9976.666667,0,0,0,0,0,0,0,0,0
+GCA_032466195.1_ASM3246619v1,Mollusca,Polyplacophora,Chitonida,Mopaliidae,Katharina,Katharina tunicata,6205,0,0,0,0,0,0,0,0,0
+GCA_034781015.1_ASM3478101v1,Mollusca,Polyplacophora,Chitonida,Mopaliidae,Tonicella,Tonicella lineata,3467.5,0,0,0,0,0,0,0,0,0
+GCA_963971465.1_xpLepCine2.1,Mollusca,Polyplacophora,Chitonida,Tonicellidae,Lepidochitona,Lepidochitona cinerea,1140.625,0,0,0,0,0,0,0,0,0
+GCA_034096865.1_UHGW_Tflu_1.1,Mollusca,Gastropoda,Cycloneritida,Neritidae,Theodoxus,Theodoxus fluviatilis,1277.5,0,0,0,0,0,0,0,0,0
+GCA_033807755.1_Elch_1.0,Mollusca,Gastropoda,Ellobiida,Ellobiidae,Ellobium,Ellobium chinense,7300,0,0,0,0,0,0,0,0,0
+GCA_944989445.1_Rbalt_genome_v1,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,Ampullaceana,Ampullaceana balthica,365,0,0,0,0,0,0,0,0,0
+GCA_964033795.1_LYST_v1,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,Lymnaea,Lymnaea stagnalis,775.0625,0,0,0,0,0,0,0,0,0
+GCA_964017045.1_xgOmpGlab2.1,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,Omphiscola,Omphiscola glabra,517.0833333,0,0,0,0,0,0,0,0,0
+GCA_002072015.1_ASM207201v1,Mollusca,Gastropoda,Hygrophila,Lymnaeidae,Radix,Radix auricularia,730,0,0,0,0,0,0,0,0,0
+GCA_028476545.3_ASM2847654v3,Mollusca,Gastropoda,Hygrophila,Physidae,Physella,Physella acuta,326.547619,0,0,0,0,0,0,0,0,0
+GCA_949126835.1_xgAniVort1.1,Mollusca,Gastropoda,Hygrophila,Planorbidae,Anisus,Anisus vortex,395.4166667,0,0,0,0,0,0,0,0,0
+GCA_947242115.1_xgBioGlab47.1,Mollusca,Gastropoda,Hygrophila,Planorbidae,Biomphalaria,Biomphalaria glabrata,497.775,0,0,0,0,0,0,0,0,0
+GCA_030265305.1_UNM_Bpfe_1.0,Mollusca,Gastropoda,Hygrophila,Planorbidae,Biomphalaria,Biomphalaria pfeifferi,414.1527778,0,0,0,0,0,0,0,0,0
+GCA_021533235.1_Bstr_hk_v1,Mollusca,Gastropoda,Hygrophila,Planorbidae,Biomphalaria,Biomphalaria straminea,293.8,0,0,0,0,0,0,0,0,0
+GCA_036873155.1_WU_Bs111_ccs,Mollusca,Gastropoda,Hygrophila,Planorbidae,Biomphalaria,Biomphalaria sudanica,301,0,0,0,0,0,0,0,0,0
+GCA_021962125.1_Btru.v1,Mollusca,Gastropoda,Hygrophila,Planorbidae,Bulinus,Bulinus truncatus,344.1888889,0,1,0,0,0,0,0,0,0
+GCA_036873565.1_ASM3687356v1,Mollusca,Cephalopoda,Idiosepida,Idiosepiidae,Xipholeptos,Xipholeptos notoides,160.8018868,0,0,0,0,0,0,0,0,0
+GCA_031471655.1_ASM3147165v1,Mollusca,Gastropoda,Lepetellida,Fissurellidae,Diodora,Diodora aspera,7300,0,0,0,0,0,0,0,0,0
+GCA_022045235.1_xgHalCrac1.p,Mollusca,Gastropoda,Lepetellida,Haliotidae,Haliotis,Haliotis cracherodii,10950,0,0,0,0,0,0,0,0,0
+GCA_008038995.1_Hlaev_1.0,Mollusca,Gastropoda,Lepetellida,Haliotidae,Haliotis,Haliotis laevigata,5475,0,0,0,0,0,0,0,0,0
+GCA_003918875.1_ASM391887v1,Mollusca,Gastropoda,Lepetellida,Haliotidae,Haliotis,Haliotis rubra,6387.5,0,0,0,0,0,0,0,0,0
+GCA_023055435.1_xgHalRufe1.0.p,Mollusca,Gastropoda,Lepetellida,Haliotidae,Haliotis,Haliotis rufescens,15512.5,0,0,0,0,0,0,0,0,0
+GCA_037325665.1_US_GU_Lsax_2.0,Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Littorina,Littorina saxatilis,2443.472222,0,0,0,0,0,0,0,0,0
+GCA_036898135.1_ASM3689813v1,Mollusca,Gastropoda,Littorinimorpha,Pomatiopsidae,Oncomelania,Oncomelania hupensis,484,0,0,0,0,0,0,0,0,0
+GCA_030674185.1_MNHN-Mocor-1,Mollusca,Gastropoda,Littorinimorpha,Ranellidae,Monoplex,Monoplex corrugatus,1505.625,0,0,0,0,0,0,0,0,0
+GCA_040114235.1_ASM4011423v1,Mollusca,Gastropoda,Littorinimorpha,Tateidae,Potamopyrgus,Potamopyrgus estuarinus,365,0,0,0,0,0,0,0,0,0
+GCA_000327385.1_Helro1,Mollusca,Gastropoda,Lottioidea,Lottiidae,Lottia,Lottia gigantea,6077.25,0,0,0,0,0,0,0,0,0
+GCA_029955415.1_xgLotScab1.0.hap1,Mollusca,Gastropoda,Lottioidea,Lottiidae,Lottia,Lottia scabra,3041.666667,0,0,0,0,0,0,0,0,0
+GCA_964016985.1_xbAnoAlba1.1,Mollusca,Bivalvia,Lucinida,Lucinidae,Anodontia,Anodontia alba,730,0,0,0,0,0,0,0,0,0
+GCA_964194395.1_xbSteFlor3.1,Mollusca,Bivalvia,Lucinida,Lucinidae,Stewartia,Stewartia floridana,2190,0,0,0,0,0,0,0,0,0
+GCA_027627225.1_MU_Ckus_1.0,Mollusca,Bivalvia,Myida,Dreissenidae,Congeria,Congeria kusceri,14235,0,0,0,0,0,0,0,0,0
+GCA_020536995.1_UMN_Dpol_1.0,Mollusca,Bivalvia,Myida,Dreissenidae,Dreissena,Dreissena polymorpha,2707.083333,0,0,0,0,0,0,0,0,0
+GCA_007657795.1_UV_Dro_v1.1,Mollusca,Bivalvia,Myida,Dreissenidae,Dreissena,Dreissena rostriformis,4988.333333,0,0,0,0,0,0,0,0,0
+GCA_026914265.1_ASM2691426v1,Mollusca,Bivalvia,Myida,Myidae,Mya,Mya arenaria,5878.527778,0,0,0,0,0,0,0,0,0
+GCA_023376005.1_UCB_Dpea_1,Mollusca,Cephalopoda,Myopsida,Loliginidae,Doryteuthis,Doryteuthis pealeii,365,0,0,0,0,0,0,0,0,0
+GCA_963585895.1_xcSepLess1.1,Mollusca,Cephalopoda,Myopsida,Loliginidae,Sepioteuthis,Sepioteuthis lessoniana,395.5694444,0,0,0,0,0,0,0,0,0
+GCA_963971305.1_xbArcSenh1.1,Mollusca,Bivalvia,Mytilida,Mytilidae,Arcuatula,Arcuatula senhousia,742.1666667,0,0,0,0,0,0,0,0,0
+GCA_034783895.1_ASM3478389v1,Mollusca,Bivalvia,Mytilida,Mytilidae,Geukensia,Geukensia demissa,5718.333333,0,0,0,0,0,0,0,0,0
+GCA_032357055.1_ASM3235705v1,Mollusca,Bivalvia,Mytilida,Mytilidae,Geukensia,Geukensia granosissima,6570,0,0,0,0,0,0,0,0,0
+GCA_944474755.1_xbLimFort5.1,Mollusca,Bivalvia,Mytilida,Mytilidae,Limnoperna,Limnoperna fortunei,1373.727273,0,0,0,0,0,0,0,0,0
+GCA_021869535.1_xbMytCali1.0.p,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus californianus,4745,0,0,0,0,0,0,0,0,0
+GCA_017311375.1_Mcoruscus_HiC,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus coruscus,8881.666667,0,0,0,0,0,0,0,0,0
+GCA_019925275.2_PEIMed_v2,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis,5028.888889,0,0,0,0,0,0,0,0,0
+GCA_037788925.1_MytGallo_primary_0.1,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus galloprovincialis,1034.166667,0,0,0,0,0,0,0,0,0
+GCA_036588685.2_PNRI_Mtr1.2.1.hap1,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus trossulus,2798.333333,0,0,0,0,0,0,0,0,0
+GCA_037379345.1_ASM3737934v1,Mollusca,Bivalvia,Mytilida,Mytilidae,Perna,Perna viridis,1424.513889,0,0,0,0,0,0,0,0,0
+GCA_018389105.1_ASM1838910v1,Mollusca,Cephalopoda,Nautilida,Nautilidae,Nautilus,Nautilus pompilius,6326.666667,0,0,0,0,0,0,0,0,0
+GCA_041734735.1_ASM4173473v1,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Babylonia,Babylonia areolata,2190,0,0,0,0,0,0,0,0,0
+GCA_034780235.1_ASM3478023v1,Mollusca,Gastropoda,Neogastropoda,Muricidae,Concholepas,Concholepas concholepas,2555,0,0,0,0,0,0,0,0,0
+GCA_028751875.1_ASM2875187v1,Mollusca,Gastropoda,Neogastropoda,Muricidae,Rapana,Rapana venosa,4501.666667,0,0,0,0,0,0,0,0,0
+GCA_030674155.1_MNHN-Sthae-1,Mollusca,Gastropoda,Neogastropoda,Muricidae,Stramonita,Stramonita haemastoma,2190,0,0,0,0,0,0,0,0,0
+GCA_034780015.1_ASM3478001v1,Mollusca,Gastropoda,Neogastropoda,Muricidae,Urosalpinx,Urosalpinx cinerea,1825,0,0,0,0,0,0,0,0,0
+GCA_009936545.3_ASM993654v3,Mollusca,Gastropoda,Neogastropoda,Nassariidae,Anentome,Anentome helena,1642.5,0,0,0,0,0,0,0,0,0
+GCA_032466315.1_ASM3246631v1,Mollusca,Gastropoda,Nudibranchia,Aeolidiidae,Aeolidia,Aeolidia papillosa,273.75,0,0,0,0,0,0,0,0,0
+GCA_034508935.3_UCSD_Bste_1.2,Mollusca,Gastropoda,Nudibranchia,Aeolidiidae,Berghia,Berghia stephanieae,547.5,0,0,0,0,0,0,0,0,0
+GCA_025762795.1_ASM2576279v1,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Goniobranchus,Goniobranchus coi,365,0,0,0,0,0,0,0,0,0
+GCA_028565935.1_ASM2856593v1,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Goniobranchus,Goniobranchus fidelis,53,0,0,0,0,0,0,0,0,0
+GCA_028565895.1_ASM2856589v1,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Goniobranchus,Goniobranchus geometricus,60,0,0,0,0,0,0,0,0,0
+GCA_025770095.1_ASM2577009v1,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Goniobranchus,Goniobranchus kuniei,365,0,0,0,0,0,0,0,0,0
+GCA_028566475.1_ASM2856647v1,Mollusca,Gastropoda,Nudibranchia,Chromodorididae,Goniobranchus,Goniobranchus leopardus,365,0,0,0,0,0,0,0,0,0
+GCA_032358575.1_ASM3235857v1,Mollusca,Gastropoda,Nudibranchia,Dendronotidae,Dendronotus,Dendronotus rufus,365,0,0,0,0,0,0,0,0,0
+GCA_031834005.1_ASM3183400v1,Mollusca,Gastropoda,Nudibranchia,Dendronotidae,Dendronotus,Dendronotus venustus,365,0,0,0,0,0,0,0,0,0
+GCA_039654525.1_ASM3965452v1,Mollusca,Gastropoda,Nudibranchia,Dendronotidae,Melibe,Melibe bucephala,365,0,0,0,0,0,0,0,0,0
+GCA_031471865.1_ASM3147186v1,Mollusca,Gastropoda,Nudibranchia,Dendronotidae,Melibe,Melibe leonina,365,0,0,0,0,0,0,0,0,0
+GCA_039654465.1_ASM3965446v1,Mollusca,Gastropoda,Nudibranchia,Dendronotidae,Melibe,Melibe viridis,128,0,0,0,0,0,0,0,0,0
+GCA_031763155.1_ASM3176315v1,Mollusca,Gastropoda,Nudibranchia,Dironidae,Dirona,Dirona albolineata,182.5,0,0,0,0,0,0,0,0,0
+GCA_030265205.1_ASM3026520v1,Mollusca,Gastropoda,Nudibranchia,Dironidae,Dirona,Dirona pellucida,365,0,0,0,0,0,0,0,0,0
+GCA_037039925.1_xgDorMont1_p1.0,Mollusca,Gastropoda,Nudibranchia,Dironidae,Doris,Doris montereyensis,288.9583333,0,0,0,0,0,0,0,0,0
+GCA_031762655.1_ASM3176265v1,Mollusca,Gastropoda,Nudibranchia,Dironidae,Doris,Doris verrucosa,365,0,0,0,0,0,0,0,0,0
+GCA_031471375.1_ASM3147137v1,Mollusca,Gastropoda,Nudibranchia,Glaucidae,Hermissenda,Hermissenda crassicornis,160,0,0,0,0,0,0,0,0,0
+GCA_031833985.1_ASM3183398v1,Mollusca,Gastropoda,Nudibranchia,Goniodorididae,Ancula,Ancula gibbosa,121.6666667,0,0,0,0,0,0,0,0,0
+GCA_037974715.1_ASM3797471v1,Mollusca,Gastropoda,Nudibranchia,Lomanotidae,Lomanotus,Lomanotus vermiformis,365,0,0,0,0,0,0,0,0,0
+GCA_039654545.1_ASM3965454v1,Mollusca,Gastropoda,Nudibranchia,Polyceridae,Plocamopherus,Plocamopherus ceylonicus,365,0,0,0,0,0,0,0,0,0
+GCA_039654505.1_ASM3965450v1,Mollusca,Gastropoda,Nudibranchia,Polyceridae,Plocamopherus,Plocamopherus imperialis,90,0,0,0,0,0,0,0,0,0
+GCA_037974505.1_ASM3797450v1,Mollusca,Gastropoda,Nudibranchia,Polyceridae,Plocamopherus,Plocamopherus tilesii,109,0,0,0,0,0,0,0,0,0
+GCA_031833965.1_ASM3183396v1,Mollusca,Gastropoda,Nudibranchia,Scyllaeidae,Scyllaea,Scyllaea pelagica,365,0,0,0,0,0,0,0,0,0
+GCA_030265255.1_ASM3026525v1,Mollusca,Gastropoda,Nudibranchia,Tritoniidae,Tritonia,Tritonia festiva,365,0,0,0,0,0,0,0,0,0
+GCA_030265355.1_ASM3026535v1,Mollusca,Gastropoda,Nudibranchia,Tritoniidae,Tritonia,Tritonia tetraquetra,365,0,0,0,0,0,0,0,0,0
+GCA_029822975.1_ASM2982297v1,Mollusca,Cephalopoda,Octopoda,Bolitaenidae,Japetella,Japetella diaphana,2193,0,0,0,0,0,0,0,0,0
+GCA_026873925.1_ASM2687392v1,Mollusca,Cephalopoda,Octopoda,Octopodidae,Amphioctopus,Amphioctopus burryi,304.1666667,0,0,0,0,0,0,0,0,0
+GCA_964016885.1_xcEleCirr1.1,Mollusca,Cephalopoda,Octopoda,Octopodidae,Eledone,Eledone cirrhosa,787.03125,0,0,0,0,0,0,0,0,0
+GCA_027564315.1_ASM2756431v1,Mollusca,Cephalopoda,Octopoda,Octopodidae,Enteroctopus,Enteroctopus dofleini,1308.4,0,0,0,0,0,0,0,0,0
+GCA_015501135.1_ASM1550113v1,Mollusca,Cephalopoda,Octopoda,Octopodidae,Hapalochlaena,Hapalochlaena maculosa,212.9166667,0,0,0,0,0,0,0,0,0
+GCA_027122495.1_ASM2712249v1,Mollusca,Cephalopoda,Octopoda,Octopodidae,Muusoctopus,Muusoctopus longibrachus,1460,0,0,0,0,0,0,0,0,0
+GCA_027568995.1_ASM2756899v1,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,Octopus americanus,356,0,0,0,0,0,0,0,0,0
+GCA_001194135.2_ASM119413v2,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,Octopus bimaculoides,517.0833333,0,0,0,0,0,0,0,0,0
+GCA_029874955.1_RU_OctIns_1.0,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,Octopus insularis,172,0,0,0,0,0,0,0,0,0
+GCA_027122535.1_ASM2712253v1,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,Octopus maya,453.75,0,0,0,0,0,0,0,0,0
+GCA_027564515.1_ASM2756451v1,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,Octopus rubescens,821.25,0,0,0,0,0,0,0,0,0
+GCA_006345805.1_ASM634580v1,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,Octopus sinensis,486.6666667,0,0,0,0,0,0,0,0,0
+GCA_951406725.2_xcOctVulg1.2,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,Octopus vulgaris,669.1666667,0,0,0,0,0,0,0,0,0
+GCA_006491835.1_UP_Adux,Mollusca,Cephalopoda,Oegopsida,Architeuthidae,Architeuthis,Architeuthis dux,2269.778571,0,0,0,0,0,0,0,0,0
+GCA_015471945.1_Wsci_v1.0,Mollusca,Cephalopoda,Oegopsida,Enoploteuthidae,Watasenia,Watasenia scintillans,395.4166667,0,0,0,0,0,0,0,0,0
+GCA_037178445.1_ASM3717844v1,Mollusca,Cephalopoda,Oegopsida,Onychoteuthidae,Onykia,Onykia robusta,520,0,0,0,0,0,0,0,0,0
+GCA_963457665.1_xcThyRhom1.1,Mollusca,Cephalopoda,Oegopsida,Thysanoteuthidae,Thysanoteuthis,Thysanoteuthis rhombus,300,0,0,0,0,0,0,0,0,0
+GCA_020458035.1_ASM2045803v1,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea,Crassostrea ariakensis,4745,0,0,0,0,0,0,0,0,0
+GCA_040285235.1_LNCC_Cgas_1.0,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea,Crassostrea gasar,1760.516667,0,0,0,0,0,0,0,0,0
+GCA_033439105.1_Cni_ZS_v1,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea,Crassostrea nippona,2737.5,0,0,0,0,0,0,0,0,0
+GCA_040285155.1_LNCC_Crhi_1.0,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea,Crassostrea rhizophorae,1199.025,0,0,0,0,0,0,0,0,0
+GCA_002022765.4_C_virginica-3.0,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea,Crassostrea virginica,2930.95,0,0,0,0,0,0,0,0,0
+GCA_025612915.2_ASM2561291v2,Mollusca,Bivalvia,Ostreida,Ostreidae,Magallana,Magallana angulata,1642.5,0,0,0,0,0,0,0,0,0
+GCA_963853765.1_xbMagGiga1.1,Mollusca,Bivalvia,Ostreida,Ostreidae,Magallana,Magallana gigas,2117,0,0,0,0,0,0,0,0,0
+GCA_015776775.1_ASM1577677v1,Mollusca,Bivalvia,Ostreida,Ostreidae,Magallana,Magallana hongkongensis,3650,0,0,0,0,0,0,0,0,0
+GCA_024699665.1_O._denselamellosa_genome_assembly_1.0,Mollusca,Bivalvia,Ostreida,Ostreidae,Ostrea,Ostrea denselamellosa,2190,0,0,0,0,0,0,0,0,0
+GCA_947568905.1_xbOstEdul1.1,Mollusca,Bivalvia,Ostreida,Ostreidae,Ostrea,Ostrea edulis,3650,0,0,0,0,0,0,0,0,0
+GCA_032062105.1_CSIRO_AGI_Scuc_v1,Mollusca,Bivalvia,Ostreida,Ostreidae,Saccostrea,Saccostrea cuccullata,5794.375,0,0,0,0,0,0,0,0,0
+GCA_003671525.1_Sgl1.0,Mollusca,Bivalvia,Ostreida,Ostreidae,Saccostrea,Saccostrea glomerata,2737.5,0,0,0,0,0,0,0,0,0
+GCA_964341155.2_xgPatCaer1.2,Mollusca,Gastropoda,Patelloidea,Patellidae,Patella,Patella caerulea,1703.333333,0,0,0,0,0,0,0,0,0
+GCA_948474765.1_xgPatDepr1.1,Mollusca,Gastropoda,Patelloidea,Patellidae,Patella,Patella depressa,2068.333333,0,0,0,0,0,0,0,0,0
+GCA_917208275.1_xgPatPell1.1,Mollusca,Gastropoda,Patelloidea,Patellidae,Patella,Patella pellucida,365,0,0,0,0,0,0,0,0,0
+GCA_963678685.1_xgPatUlys2.1,Mollusca,Gastropoda,Patelloidea,Patellidae,Patella,Patella ulyssiponensis,5475,0,0,0,0,0,0,0,0,0
+GCA_932274485.2_xgPatVulg1.2,Mollusca,Gastropoda,Patelloidea,Patellidae,Patella,Patella vulgata,5037,0,0,0,0,0,0,0,0,0
+GCA_004382765.1_QAU_Acon_1.1,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten,Argopecten irradians concentricus,694.5138889,0,0,0,0,0,0,0,0,0
+GCA_004382745.1_QAU_Airr_1.1,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten,Argopecten irradians irradians,730,0,0,0,0,0,0,0,0,0
+GCA_032359455.1_ASM3235945v1,Mollusca,Bivalvia,Pectinida,Pectinidae,Chlamys,Chlamys rubida,2190,0,0,0,0,0,0,0,0,0
+GCA_032360845.1_ASM3236084v1,Mollusca,Bivalvia,Pectinida,Pectinidae,Crassadoma,Crassadoma gigantea,7300,0,0,0,0,0,0,0,0,0
+GCA_947623455.1_xbMimVari1.1,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys,Mimachlamys varia,1825,0,0,0,0,0,0,0,0,0
+GCA_002113885.2_ASM211388v2,Mollusca,Bivalvia,Pectinida,Pectinidae,Mizuhopecten,Mizuhopecten yessoensis,5031.785714,0,0,0,0,0,0,0,0,0
+GCA_902652985.1_xPecMax1.1,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten,Pecten maximus,6752.5,0,0,0,0,0,0,0,0,0
+GCA_031769215.1_AGI_CSIRO_Ybal_v1,Mollusca,Bivalvia,Pectinida,Pectinidae,Ylistrum,Ylistrum balloti,1306.75,0,0,0,0,0,0,0,0,0
+GCA_016161895.1_ASM1616189v1,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna,Pinna nobilis,9344,0,0,0,0,0,0,0,0,0
+GCA_028142955.1_Pfu_4.1A,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada,Pinctada fucata,2190,0,0,0,0,0,0,0,0,0
+GCA_033119305.1_ASM3311930v1,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada,Pinctada imbricata,2190,0,0,0,0,0,0,0,0,0
+GCA_964021215.1_xbPinMarg1,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada,Pinctada margaritifera,2007.5,0,0,0,0,0,0,0,0,0
+GCA_035048485.1_Ppen_2.0,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria,Pteria penguin,1405.25,0,0,0,0,0,0,0,0,0
+GCA_032362205.1_ASM3236220v1,Mollusca,Gastropoda,Pteropoda,Clionidae,Clione,Clione limacina,730,0,0,0,0,0,0,0,0,0
+GCA_009866985.1_NBC_Lbul_1,Mollusca,Gastropoda,Pteropoda,Limacinidae,Limacina,Limacina bulimoides,319.375,0,0,0,0,0,0,0,0,0
+GCA_003991915.1_ElyChl2.0,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia,Elysia chlorotica,466.3888889,0,0,0,0,0,0,0,0,0
+GCA_033675545.1_ASM3367554v1,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia,Elysia crispata,669.1666667,0,0,0,0,0,0,0,0,0
+GCA_019649035.1_Ema_v1,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Elysia,Elysia marginata,270,0,0,0,0,0,0,0,0,0
+GCA_019648995.1_PoB_v1,Mollusca,Gastropoda,Sacoglossa,Plakobranchidae,Plakobranchus,Plakobranchus ocellatus,152.0833333,0,0,0,0,0,0,0,0,0
+GCA_964036315.1_xcSepEscu2.1,Mollusca,Cephalopoda,Sepiida,Sepiidae,Acanthosepion,Acanthosepion esculentum,365,0,0,0,0,0,0,0,0,0
+GCA_963932145.1_xcSepLyci1.1,Mollusca,Cephalopoda,Sepiida,Sepiidae,Acanthosepion,Acanthosepion lycidas,365,0,0,0,0,0,0,0,0,0
+GCA_903632075.3_SPHA2.0,Mollusca,Cephalopoda,Sepiida,Sepiidae,Acanthosepion,Acanthosepion pharaonis,985.1666667,0,0,0,0,0,0,0,0,0
+GCA_037127315.1_Cuttlefish_Shasta_Assembly-Phased_Primary,Mollusca,Cephalopoda,Sepiida,Sepiidae,Ascarosepion,Ascarosepion bandense,273.75,0,0,0,0,0,0,0,0,0
+GCA_963556195.1_xcSepAtla11.1,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepiola,Sepiola atlantica,304.1666667,0,0,0,0,0,0,0,0,0
+GCA_964059275.1_xcSepParv1.hap1.1,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Eumandya,Eumandya parva,91.25,0,0,0,0,0,0,0,0,0
+GCA_024364805.1_ASM2436480v1,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Euprymna,Euprymna scolopes,154.3333333,0,0,0,0,0,0,0,0,0
+GCA_036924085.1_xgAriColu1.0.hap1,Mollusca,Gastropoda,Stylommatophora,Arionidae,Ariolimax,Ariolimax columbianus,1825,0,0,0,0,0,0,0,0,0
+GCA_032362185.1_ASM3236218v1,Mollusca,Gastropoda,Stylommatophora,Arionidae,Arion,Arion ater rufus,620.5,0,0,0,0,0,0,0,0,0
+GCA_020796225.1_ASM2079622v1,Mollusca,Gastropoda,Stylommatophora,Arionidae,Arion,Arion vulgaris,720.6,0,0,0,0,0,0,0,0,0
+GCA_040496235.1_ASM4049623v1,Mollusca,Gastropoda,Stylommatophora,Camaenidae,Euhadra,Euhadra peliomphala,912.5,0,0,0,0,0,0,0,0,0
+GCA_905116865.2_CUNI_anot_genome.v2,Mollusca,Gastropoda,Stylommatophora,Geomitridae,Candidula,Candidula unifasciata,365,0,0,0,0,0,0,0,0,0
+GCA_963921405.1_xgCepHort1.1,Mollusca,Gastropoda,Stylommatophora,Helicidae,Cepaea,Cepaea hortensis,2920,0,0,0,0,0,0,0,0,0
+GCA_964166675.1_xgCepNemo3.hap2.1,Mollusca,Gastropoda,Stylommatophora,Helicidae,Cepaea,Cepaea nemoralis,2482,0,0,0,0,0,0,0,0,0
+GCA_964187895.1_xgCorAspe16.1,Mollusca,Gastropoda,Stylommatophora,Helicidae,Cornu,Cornu aspersum,2104.583333,0,0,0,0,0,0,0,0,0
+GCA_963931925.1_xgOncCelt3.1,Mollusca,Gastropoda,Systellommatophora,Onchidiidae,Onchidella,Onchidella celtica,1095,0,0,0,0,0,0,0,0,0
+GCA_921293015.1_xgPhoLine1.1,Mollusca,Gastropoda,Trochida,Trochidae,Phorcus,Phorcus lineatus,4927.5,0,0,0,0,0,0,0,0,0
+GCA_916613615.1_xgSteCine2.1,Mollusca,Gastropoda,Trochida,Trochidae,Steromphala,Steromphala cineraria,1277.5,0,0,0,0,0,0,0,0,0
+GCA_031762815.1_ASM3176281v1,Mollusca,Gastropoda,Umbraculida,Tylodinidae,Tylodina,Tylodina fungina,365,0,0,0,0,0,0,0,0,0
+GCA_029931535.1_MarmarV2,Mollusca,Bivalvia,Unionida,Margaritiferidae,Margaritifera,Margaritifera margaritifera,53290,0,0,0,0,0,0,0,0,0
+GCA_016617855.1_ASM1661785v1,Mollusca,Bivalvia,Unionida,Unionidae,Megalonaias,Megalonaias nervosa,16425,0,0,0,0,0,0,0,0,0
+GCA_029339505.1_Ude_BIV7592_haploid,Mollusca,Bivalvia,Unionida,Unionidae,Unio,Unio delphinus,4015,0,0,0,0,0,0,0,0,0
+GCA_030141615.1_Upi_BIV9798,Mollusca,Bivalvia,Unionida,Unionidae,Unio,Unio pictorum,5091.75,0,0,0,0,0,0,0,0,0
+GCA_003401595.1_ASM340159v1,Mollusca,Bivalvia,Unionida,Unionidae,Venustaconcha,Venustaconcha ellipsiformis,5475,0,0,0,0,0,0,0,0,0
+GCA_001632725.1_ASM163272v1,Mollusca,Bivalvia,Venerida,Cyrenidae,Corbicula,Corbicula fluminea,1690.659722,0,0,0,0,0,0,0,0,0
+GCA_038501625.1_CoJap,Mollusca,Bivalvia,Venerida,Cyrenidae,Corbicula,Corbicula japonica,4136.666667,0,0,0,0,0,0,0,0,0
+GCA_032209605.1_xbMacPoly1_p1.0,Mollusca,Bivalvia,Venerida,Mactridae,Mactromeris,Mactromeris polynyma,17624.28571,0,0,0,0,0,0,0,0,0
+GCA_947247005.1_xbSpiSoli1.1,Mollusca,Bivalvia,Venerida,Mactridae,Spisula,Spisula solida,2737.5,0,0,0,0,0,0,0,0,0
+GCA_963678985.1_xbSpiSubt1.1,Mollusca,Bivalvia,Venerida,Mactridae,Spisula,Spisula subtruncata,1246.475,0,0,0,0,0,0,0,0,0
+GCA_012932295.1_ASM1293229v1,Mollusca,Bivalvia,Venerida,Veneridae,Cyclina,Cyclina sinensis,2555,0,0,0,0,0,0,0,0,0
+GCA_021730395.1_MADL_Memer_1,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria,Mercenaria mercenaria,11777.33333,0,0,0,0,0,0,0,0,0
+GCA_026571515.2_ASM2657151v2,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes,Ruditapes philippinarum,4842.82,0,0,0,0,0,0,0,0,0
+GCA_032359765.1_ASM3235976v1,Mollusca,Bivalvia,Venerida,Veneridae,Saxidomus,Saxidomus gigantea,6935,0,0,0,0,0,0,0,0,0
+GCA_022818135.2_GRF_Spur_v2,Mollusca,Bivalvia,Venerida,Veneridae,Saxidomus,Saxidomus purpurata,5840,0,0,0,0,0,0,0,0,0
+GCA_964256745.1_neEchMats5.1,Nematoda,Enoplea,Enoplida,Echinomermellidae,Echinomermella,Echinomermella matsi,730,0,0,0,0,0,0,0,0,1
+GCA_036768485.1_OU_Mnig_GAv1.2,Nematoda,Enoplea,Mermithida,Mermithidae,Mermis,Mermis nigrescens,790,0,0,0,0,0,0,0,0,1
+GCA_963922205.1_Rcx_HiFi_Nanopore_202305,Nematoda,Enoplea,Mermithida,Mermithidae,Romanomermis,Romanomermis culicivorax,126.5,0,0,0,0,0,0,0,0,1
+GCA_036172955.1_ASM3617295v1,Nematoda,Chromadorea,Monhysterida,Meloidogynidae,Meloidogyne,Meloidogyne arenaria,51.5,781.5,1,0,1,0,0,0,0,1
+GCA_015183035.1_ASM1518303v1,Nematoda,Chromadorea,Monhysterida,Meloidogynidae,Meloidogyne,Meloidogyne chitwoodi,61,0,1,0,1,0,0,0,0,1
+GCA_963681835.1_Meloidogyne_enterolobii_E1834_genome_assembly,Nematoda,Chromadorea,Monhysterida,Meloidogynidae,Meloidogyne,Meloidogyne enterolobii,28.66666667,0,1,0,0,0,0,0,0,1
+GCA_018905775.1_ASM1890577v1,Nematoda,Chromadorea,Monhysterida,Meloidogynidae,Meloidogyne,Meloidogyne exigua,47.33333333,0,1,0,0,0,0,0,0,1
+GCA_003693605.1_ASM369360v1,Nematoda,Chromadorea,Monhysterida,Meloidogynidae,Meloidogyne,Meloidogyne floridensis,29,0,1,0,0,0,0,0,0,1
+GCA_036172905.1_ASM3617290v1,Nematoda,Chromadorea,Monhysterida,Meloidogynidae,Meloidogyne,Meloidogyne graminicola,51,0,1,0,1,0,0,0,0,1
+GCA_000172435.1_Freeze_1,Nematoda,Chromadorea,Monhysterida,Meloidogynidae,Meloidogyne,Meloidogyne hapla,69.5,252,1,0,1,0,0,0,0,1
+GCA_036172945.1_ASM3617294v1,Nematoda,Chromadorea,Monhysterida,Meloidogynidae,Meloidogyne,Meloidogyne incognita,55.94421769,246.9442177,1,0,1,1,0,0,0,1
+GCA_036172935.1_ASM3617293v1,Nematoda,Chromadorea,Monhysterida,Meloidogynidae,Meloidogyne,Meloidogyne javanica,73.25,1624.5,1,0,1,1,0,0,0,1
+GCA_963070105.1_nxLitSigm11.1,Nematoda,Chromadorea,Monhysterida,Onchocercidae,Litomosoides,Litomosoides sigmodontis,560.9625,0,0,0,0,0,0,0,0,2
+GCA_000183805.3_Loa_loa_V3.1,Nematoda,Chromadorea,Monhysterida,Onchocercidae,Loa,Loa loa,4675.275,0,0,0,0,0,0,0,0,2
+GCA_029876185.1_NEB_Moz_Venz_1,Nematoda,Chromadorea,Monhysterida,Onchocercidae,Mansonella,Mansonella ozzardi,2100.375,0,0,0,0,0,0,0,0,2
+GCA_037074765.1_Mpe_Cam_1,Nematoda,Chromadorea,Monhysterida,Onchocercidae,Mansonella,Mansonella perstans,4281.3,0,0,0,0,0,0,0,0,2
+GCA_964036275.1_nrLitMari1.1,Nematoda,Chromadorea,Monhysterida,Rhabditidae,Litoditis,Litoditis marina,25.66666667,0,0,0,0,0,0,0,0,0
+GCA_034698125.1_ASM3469812v1,Nematoda,Enoplea,Mononchida,Mononchidae,Prionchulus,Prionchulus punctatus,200,0,0,0,0,0,0,0,0,0
+GCA_004785735.1_ASM478573v1,Nematoda,Chromadorea,Plectida,Plectidae,Plectus,Plectus murrayi,57,9364.5,0,0,0,1,0,0,0,0
+GCA_963281155.1_RDIUv2,Nematoda,Chromadorea,Rhabditida,Alloionematidae,Rhabditophanes,Rhabditophanes sp. KR3021,21,112.25,1,0,0,1,0,0,0,0
+GCA_037903475.1_UNMC_Acan_hybrid,Nematoda,Chromadorea,Rhabditida,Ancylostomatidae,Ancylostoma,Ancylostoma caninum,815.75,0,0,0,0,0,0,0,0,1
+GCA_000688135.1_Acey_2013.11.30.genDNA,Nematoda,Chromadorea,Rhabditida,Ancylostomatidae,Ancylostoma,Ancylostoma ceylanicum,243,0,0,0,0,0,0,0,0,1
+GCA_000816745.1_A_duodenale_2.2.ec.cg.pg,Nematoda,Chromadorea,Rhabditida,Ancylostomatidae,Ancylostoma,Ancylostoma duodenale,3049.25,0,0,0,0,0,0,0,0,1
+GCA_031761385.1_Nec_am_Ar_1.0,Nematoda,Chromadorea,Rhabditida,Ancylostomatidae,Necator,Necator americanus,4603.222222,0,0,0,0,0,0,0,0,1
+GCA_029339935.1_ASM2933993v1,Nematoda,Chromadorea,Rhabditida,Anguinidae,Anguina,Anguina tritici,136.5,8288.166667,0,0,0,1,0,0,0,1
+GCA_043789845.1_ASM4378984v1,Nematoda,Chromadorea,Rhabditida,Anguinidae,Ditylenchus,Ditylenchus destructor,59,211.0833333,0,0,0,1,0,0,0,1
+GCA_004194705.1_D.dipsaci.v1.0,Nematoda,Chromadorea,Rhabditida,Anguinidae,Ditylenchus,Ditylenchus dipsaci,112,5369.403846,0,0,0,1,0,0,0,1
+GCA_020875895.1_ASM2087589v1,Nematoda,Chromadorea,Rhabditida,Aphelenchoididae,Aphelenchoides,Aphelenchoides avenae,32,579.5,0,0,0,1,0,0,0,0
+GCA_024699855.1_AORT.fasta,Nematoda,Chromadorea,Rhabditida,Aphelenchoididae,Aphelenchoides,Aphelenchoides besseyi,29,1124,1,0,0,1,0,0,0,1
+GCA_024699845.1_Abicaudatus.fasta,Nematoda,Chromadorea,Rhabditida,Aphelenchoididae,Aphelenchoides,Aphelenchoides bicaudatus,57,0,0,0,0,0,0,0,0,0
+GCA_025436335.1_Ioz_Burmu_1.0,Nematoda,Chromadorea,Rhabditida,Aphelenchoididae,Bursaphelenchus,Bursaphelenchus mucronatus,40.95,0,0,0,0,1,1,0,0,2
+GCA_904066235.2_BXYJv5,Nematoda,Chromadorea,Rhabditida,Aphelenchoididae,Bursaphelenchus,Bursaphelenchus xylophilus,46.44,721.74,0,0,0,1,1,0,0,2
+GCA_015227635.1_ALgV5,Nematoda,Chromadorea,Rhabditida,Ascarididae,Ascaris,Ascaris lumbricoides,678.3333333,3841.666667,0,0,1,0,0,0,0,1
+GCA_013433145.1_ASM1343314v1,Nematoda,Chromadorea,Rhabditida,Ascarididae,Ascaris,Ascaris suum,410,3695,0,0,1,0,0,0,0,1
+GCA_022844705.1_ASM2284470v1,Nematoda,Chromadorea,Rhabditida,Ascarididae,Toxascaris,Toxascaris leonina,425.5416667,0,0,0,0,0,0,0,0,1
+GCA_964656895.1_nxAcrNanu1.1,Nematoda,Chromadorea,Rhabditida,Cephalobidae,Acrobeloides,Acrobeloides nanus,51,2423.5,1,0,0,1,0,0,0,0
+GCA_900625125.1_D_medinensis_Ghana_0011_upd,Nematoda,Chromadorea,Rhabditida,Dracunculidae,Dracunculus,Dracunculus medinensis,468.75,0,0,0,0,0,0,0,0,2
+GCA_043882145.1_ASM4388214v1,Nematoda,Chromadorea,Rhabditida,Gnathostomatidae,Gnathostoma,Gnathostoma spinigerum,2276.4,0,0,0,0,0,0,0,0,3
+GCA_900617915.1_G_pulchrum_Hokkaido_0011_upd,Nematoda,Chromadorea,Rhabditida,Gongylonematidae,Gongylonema,Gongylonema pulchrum,1731.15,0,0,0,0,0,0,0,0,2
+GCA_947359475.1_nxHelBake1.1,Nematoda,Chromadorea,Rhabditida,Heligmosomidae,Heligmosomoides,Heligmosomoides polygyrus bakeri,687.4916667,0,0,0,0,0,0,0,0,1
+GCA_947396885.1_ngHelPoly1.1,Nematoda,Chromadorea,Rhabditida,Heligmosomidae,Heligmosomoides,Heligmosomoides polygyrus polygyrus,423.5,0,0,0,0,0,0,0,0,1
+GCA_030553155.1_ASM3055315v1,Nematoda,Chromadorea,Rhabditida,Heligmosomidae,Nippostrongylus,Nippostrongylus brasiliensis,323.9166667,0,0,0,0,0,0,0,0,1
+GCA_001723225.1_ASM172322v1,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Globodera,Globodera ellingtonae,77,11027,0,0,1,0,0,0,0,1
+GCA_020449905.1_D383_Gpal_1.0,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Globodera,Globodera pallida,56,7356,0,0,1,0,0,0,0,1
+GCA_018350325.1_WUR_GloGros_L19,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Globodera,Globodera rostochiensis,49,10999,0,0,1,0,0,0,0,1
+GCA_045552965.1_Hav_v1,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Heterodera,Heterodera avenae,99,889.8333333,0,0,1,0,0,0,0,1
+GCA_024500135.1_ASM2450013v1,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Heterodera,Heterodera carotae,61.33333333,3711.333333,0,0,1,0,0,0,0,1
+GCA_039877585.1_ASM3987758v1,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Heterodera,Heterodera filipjevi,160,0,0,0,1,0,0,0,0,1
+GCA_004148225.2_ASM414822v2,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Heterodera,Heterodera glycines,32.2,3134.7,0,0,1,0,0,0,0,1
+GCA_042257655.1_ASM4225765v1,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Heterodera,Heterodera humuli,113.0416667,234.7083333,0,0,1,0,0,0,0,1
+GCA_045552895.1_Hmani_v1,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Heterodera,Heterodera mani,152.0833333,0,0,0,1,0,0,0,0,1
+GCA_023374025.1_Cam_Hsc_genome1.1,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Heterodera,Heterodera schachtii,32.8,1857.8,0,0,1,0,0,0,0,1
+GCA_044932925.1_ASM4493292v1,Nematoda,Chromadorea,Rhabditida,Heteroderidae,Heterodera,Heterodera trifolii,47.33333333,1307.333333,0,0,1,0,0,0,0,1
+GCA_964036235.1_nxHetBact1.1,Nematoda,Chromadorea,Rhabditida,Heterorhabditidae,Heterorhabditis,Heterorhabditis bacteriophora,5.5,133.549,0,0,0,1,1,0,0,1
+GCA_020740425.3_Hi_IARI_1.2,Nematoda,Chromadorea,Rhabditida,Heterorhabditidae,Heterorhabditis,Heterorhabditis indica,5.5,120.25,0,0,0,1,1,0,0,1
+GCA_016433075.1_ASM1643307v1,Nematoda,Chromadorea,Rhabditida,Hoplolaimidae,Hoplolaimus,Hoplolaimus columbus,49,1144,1,0,0,1,0,0,0,1
+GCA_001026735.1_RREN1.0,Nematoda,Chromadorea,Rhabditida,Hoplolaimidae,Rotylenchulus,Rotylenchulus reniformis,30,516.6666667,0,0,0,1,0,0,0,1
+GCA_034700465.1_ASM3470046v1,Nematoda,Chromadorea,Rhabditida,Hoplolaimidae,Rotylenchus,Rotylenchus robustus,365,421,0,0,0,1,0,0,0,1
+GCA_009735665.1_ACgenome_NGS_v2,Nematoda,Chromadorea,Rhabditida,Metastrongylidae,Angiostrongylus,Angiostrongylus cantonensis,737.13,0,0,0,0,0,0,0,0,2
+GCA_900624975.1_A_costaricensis_Costa_Rica_0011_upd,Nematoda,Chromadorea,Rhabditida,Metastrongylidae,Angiostrongylus,Angiostrongylus costaricensis,183.45,0,0,0,0,0,0,0,0,2
+GCA_018806985.1_UZH_Avas_1.0,Nematoda,Chromadorea,Rhabditida,Metastrongylidae,Angiostrongylus,Angiostrongylus vasorum,1257.045,0,0,0,0,0,0,0,0,2
+GCA_964187775.1_ngDicVivi2.1,Nematoda,Chromadorea,Rhabditida,Metastrongylidae,Dictyocaulus,Dictyocaulus viviparus,377.1666667,529.25,0,0,0,1,0,0,0,1
+GCA_019055375.1_ASM1905537v1,Nematoda,Chromadorea,Rhabditida,Metastrongylidae,Parelaphostrongylus,Parelaphostrongylus tenuis,2375.1,0,0,0,0,0,0,0,0,2
+GCA_900490705.1_P._arcanus_genome,Nematoda,Chromadorea,Rhabditida,Neodiplogasteridae,Pristionchus,Pristionchus arcanus,80,0,0,0,0,0,0,0,0,0
+GCA_036245825.1_ASM3624582v1,Nematoda,Chromadorea,Rhabditida,Neodiplogasteridae,Pristionchus,Pristionchus entomophagus,31,0,0,0,0,0,0,0,0,0
+GCA_911812115.1_exspectatus_chromosome,Nematoda,Chromadorea,Rhabditida,Neodiplogasteridae,Pristionchus,Pristionchus exspectatus,138.5,0,0,0,0,0,0,0,0,0
+GCA_036245805.1_ASM3624580v1,Nematoda,Chromadorea,Rhabditida,Neodiplogasteridae,Pristionchus,Pristionchus mayeri,77,0,0,0,0,0,0,0,0,0
+GCA_000180635.4_El_Paco_v._4,Nematoda,Chromadorea,Rhabditida,Neodiplogasteridae,Pristionchus,Pristionchus pacificus,42,407,0,0,0,1,0,0,0,0
+GCA_009724625.1_UP_Dsir_3,Nematoda,Chromadorea,Rhabditida,Neotylenchidae,Deladenus,Deladenus siricidicola,24.33333333,520.125,0,0,0,1,1,0,0,2
+GCA_046563165.1_ASM4656316v1,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Acanthocheilonema,Acanthocheilonema viteae,730.2,0,0,0,0,0,0,0,0,2
+GCA_000002995.5_B_malayi-4.0,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Brugia,Brugia malayi,2677.305,0,0,0,0,0,0,0,0,2
+GCA_012070555.1_ASM1207055v1,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Brugia,Brugia pahangi,1956.135,0,0,0,0,0,0,0,0,2
+GCA_900618025.1_B_timori_Indonesia_v1_0_4_001_upd,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Brugia,Brugia timori,2628,0,0,0,0,0,0,0,0,2
+GCA_916381525.1_SD210906,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Cercopithifilaria,Cercopithifilaria johnstoni,574.875,0,0,0,0,0,0,0,0,3
+GCA_013365325.1_Dcau_362YU_v1,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Dipetalonema,Dipetalonema caudispina,692.475,0,0,0,0,0,0,0,0,2
+GCA_024305405.1_ICBAS_JMDir_1.0,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Dirofilaria,Dirofilaria immitis,2509.125,0,0,0,0,0,0,0,0,2
+GCA_008729115.1_FGCZ_Drep_1.0,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Dirofilaria,Dirofilaria repens,2653.2,0,0,0,0,0,0,0,0,2
+GCA_028564675.1_Olupi_Ro2020_NM.1,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Onchocerca,Onchocerca lupi,3131.55,0,0,0,0,0,0,0,0,2
+GCA_000499405.2_ASM49940v2,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Onchocerca,Onchocerca volvulus,3872.925,0,0,0,0,0,0,0,0,2
+GCA_005281725.1_ASM528172v1,Nematoda,Chromadorea,Rhabditida,Onchocercidae,Wuchereria,Wuchereria bancrofti,5196.632813,0,0,0,0,0,0,0,0,2
+GCA_900576705.1_E_vermicularis_Canary_Islands_upd,Nematoda,Chromadorea,Rhabditida,Oxyuridae,Enterobius,Enterobius vermicularis,67.3,0,0,0,0,0,0,0,0,1
+GCA_000341325.1_Pred3,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrellus,Panagrellus redivivus,32.775,0,0,0,0,0,0,0,0,0
+GCA_901779475.1_PDA_v2,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus davidi,120,3295.5,1,0,0,1,0,0,0,0
+GCA_964187885.1_nxPanDetr1.1,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus detritophagus,21,0,0,0,0,1,0,0,0,0
+GCA_964035985.1_nxPanSupe1.1,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Panagrolaimus,Panagrolaimus superbus,17,0,0,0,0,1,0,0,0,0
+GCA_963969345.1_nrTurAcet1.1,Nematoda,Chromadorea,Rhabditida,Panagrolaimidae,Turbatrix,Turbatrix aceti,92.6,0,0,0,0,0,0,0,0,0
+GCA_013357305.1_ASM1335730v1,Nematoda,Chromadorea,Rhabditida,Pratylenchidae,Radopholus,Radopholus similis,166.0416667,0,0,0,0,0,0,0,0,1
+GCA_964057225.1_nxAuaRhod1.1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Auanema,Auanema rhodensis,11,0,0,0,0,0,0,0,0,0
+GCA_964213925.1_nxCaeAnga2.1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis angaria,24,0,0,0,0,0,0,0,0,0
+GCA_964036135.1_CAEBRE_CFB2252,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis brenneri,43,0,0,0,0,0,0,0,0,0
+GCA_000004555.3_CB4,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis briggsae,35.45,0,0,0,0,1,0,0,0,0
+GCA_000002985.3_WBcel235,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis elegans,34.8,161.8,0,0,0,1,0,0,0,0
+GCA_003052745.1_Sp34_v7,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis inopinata,34,0,0,0,0,0,0,0,0,0
+GCA_963572235.1_nxCaeJapo1.1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis japonica,30.41666667,365,0,0,0,1,0,0,0,1
+GCA_963932285.1_nxCaeMacr1.1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis macrosperma,13,0,0,0,0,0,0,0,0,0
+GCA_964197825.1_nxCaeMono1.1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis monodelphis,20,0,0,0,0,0,0,0,0,0
+GCA_027920645.1_ASM2792064v1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis nigoni,18,0,0,0,0,0,0,0,0,0
+GCA_010183535.1_CRPX506,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis remanei,43.88333333,0,0,0,0,1,0,0,0,0
+GCA_043792875.1_NIC58_v2,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Caenorhabditis,Caenorhabditis tropicalis,36.5,0,0,0,0,0,0,0,0,0
+GCA_932521035.1_nxOscDolc1.1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Oscheius,Oscheius dolichura,43.9,0,0,0,0,0,0,0,0,0
+GCA_964057215.1_nxOscMyri1.1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Oscheius,Oscheius myriophilus,23.08333333,0,0,0,0,1,0,0,0,0
+GCA_037178975.1_ASM3717897v1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Oscheius,Oscheius tipulae,26,0,0,0,0,0,0,0,0,0
+GCA_036852015.1_ASM3685201v1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Pelodera,Pelodera strongyloides,15.5,0,0,0,0,0,0,0,0,0
+GCA_034700245.1_ASM3470024v1,Nematoda,Chromadorea,Rhabditida,Rhabditidae,Poikilolaimus,Poikilolaimus oxycercus,123,0,0,0,0,0,0,0,0,0
+GCA_000757645.3_ASM75764v3,Nematoda,Chromadorea,Rhabditida,Steinernematidae,Steinernema,Steinernema carpocapsae,4.25,210.3333333,0,0,0,1,1,0,0,1
+GCA_013436035.1_ASM1343603v1,Nematoda,Chromadorea,Rhabditida,Steinernematidae,Steinernema,Steinernema diaprepesi,0,735,0,0,0,1,1,0,0,1
+GCA_007213375.1_S_feltiae_NW_1.0,Nematoda,Chromadorea,Rhabditida,Steinernematidae,Steinernema,Steinernema feltiae,14.5,304.56,0,0,0,1,1,0,0,1
+GCA_000757755.1_S_glas_v1,Nematoda,Chromadorea,Rhabditida,Steinernematidae,Steinernema,Steinernema glaseri,6,458,0,0,0,1,1,0,0,1
+GCA_030435675.2_Sherm_1.1,Nematoda,Chromadorea,Rhabditida,Steinernematidae,Steinernema,Steinernema hermaphroditum,8,0,0,0,0,1,1,0,0,1
+GCA_000505645.1_S_monti_v1,Nematoda,Chromadorea,Rhabditida,Steinernematidae,Steinernema,Steinernema monticolum,4.75,173.25,0,0,0,1,1,0,0,1
+GCA_041381395.1_ASM4138139v1,Nematoda,Chromadorea,Rhabditida,Steinernematidae,Steinernema,Steinernema riobrave,8.1,146.0833333,0,0,0,1,1,0,0,1
+GCA_000757745.1_S_scapt_v1,Nematoda,Chromadorea,Rhabditida,Steinernematidae,Steinernema,Steinernema scapterisci,4.5,238.5,0,0,0,1,1,0,0,1
+GCA_900624965.1_S_vulgaris_Kentucky_0011_upd,Nematoda,Chromadorea,Rhabditida,Strongylidae,Strongylus,Strongylus vulgaris,2436.25,0,0,0,0,0,0,0,0,1
+GCA_000941615.1_P_trichosuri_KNP,Nematoda,Chromadorea,Rhabditida,Strongyloididae,Parastrongyloides,Parastrongyloides trichosuri,13.25,302,0,0,0,0,1,0,0,1
+GCA_005656395.1_S_papillosus_v1,Nematoda,Chromadorea,Rhabditida,Strongyloididae,Strongyloides,Strongyloides papillosus,6.083333333,94,1,0,0,0,1,0,0,1
+GCA_001040885.1_S_ratti_ED321,Nematoda,Chromadorea,Rhabditida,Strongyloididae,Strongyloides,Strongyloides ratti,8.875,418,1,0,0,0,1,0,0,1
+GCA_029582065.1_ASM2958206v1,Nematoda,Chromadorea,Rhabditida,Strongyloididae,Strongyloides,Strongyloides stercoralis,12,430.1388889,0,0,0,0,1,0,0,1
+GCA_963280985.1_SVENv4,Nematoda,Chromadorea,Rhabditida,Strongyloididae,Strongyloides,Strongyloides venezuelensis,7,40,0,0,0,0,1,0,0,1
+GCA_900618365.1_T_callipaeda_Ticino_0011_upd,Nematoda,Chromadorea,Rhabditida,Thelaziidae,Thelazia,Thelazia callipaeda,86.325,0,0,0,0,0,0,0,0,2
+GCA_000803305.1_Toxocara_canis_adult_r1.0,Nematoda,Chromadorea,Rhabditida,Toxocaridae,Toxocara,Toxocara canis,2646.25,0,0,0,0,0,0,0,0,1
+GCA_001447585.1_T3_ISS120_r1.0,Nematoda,Enoplea,Rhabditida,Trichinellidae,Trichinella,Trichinella britovi,30.41666667,170.1875,0,0,0,1,0,0,0,1
+GCA_001447565.2_T2_ISS10_r1.1,Nematoda,Enoplea,Rhabditida,Trichinellidae,Trichinella,Trichinella nativa,30.41666667,784.75,0,0,0,1,0,0,0,1
+GCA_001447435.1_T6_ISS34_r1.0,Nematoda,Enoplea,Rhabditida,Trichinellidae,Trichinella,Trichinella sp. T6,287,987.8055556,0,0,0,1,0,0,0,1
+GCA_000181795.3_ASM18179v3,Nematoda,Enoplea,Rhabditida,Trichinellidae,Trichinella,Trichinella spiralis,72.41666667,0,0,0,0,1,0,0,0,1
+GCA_001447665.1_T11_ISS1029_r1.0,Nematoda,Enoplea,Rhabditida,Trichinellidae,Trichinella,Trichinella zimbabwensis,60,0,0,0,0,0,0,0,0,1
+GCA_036418165.1_C_oncophora_1.0.allpaths.nc.pg.lrna,Nematoda,Chromadorea,Rhabditida,Trichostrongylidae,Cooperia,Cooperia oncophora,418.1666667,0,0,0,0,0,0,0,0,1
+GCA_000469685.2_haemonchus_contortus_MHCO3ISE_4.0,Nematoda,Chromadorea,Rhabditida,Trichostrongylidae,Haemonchus,Haemonchus contortus,829.1111111,0,0,0,0,0,0,0,0,1
+GCA_900617895.1_H_placei_MHpl1_0011_upd,Nematoda,Chromadorea,Rhabditida,Trichostrongylidae,Haemonchus,Haemonchus placei,175.25,0,0,0,0,0,0,0,0,1
+GCA_964213955.1_nxOstOste4.1,Nematoda,Chromadorea,Rhabditida,Trichostrongylidae,Ostertagia,Ostertagia ostertagi,910.8611111,1070.902778,0,0,0,1,0,0,0,1
+GCA_002352805.1_T_circumcincta.14.0.ec.cg.pg,Nematoda,Chromadorea,Rhabditida,Trichostrongylidae,Teladorsagia,Teladorsagia circumcincta,291.4375,0,0,0,0,0,0,0,0,1
+GCA_963978905.1_nxTriColu2.1,Nematoda,Chromadorea,Rhabditida,Trichostrongylidae,Trichostrongylus,Trichostrongylus colubriformis,167,0,0,0,0,0,0,0,0,1
+GCA_000612645.2_T_muris_v2,Nematoda,Enoplea,Trichinellida,Trichuridae,Trichuris,Trichuris muris,156.25,0,0,0,0,0,0,0,0,1
+GCA_000797535.1_T_suis_1.0.allpaths,Nematoda,Enoplea,Trichinellida,Trichuridae,Trichuris,Trichuris suis,148.0555556,3250.555556,0,0,1,0,0,0,0,1
+GCA_037903355.1_UNMC_Ttri_hybrid,Nematoda,Enoplea,Trichinellida,Trichuridae,Trichuris,Trichuris trichiura,3140.520833,4965.520833,0,0,1,0,0,0,0,1
+GCA_964276485.1_tfParVari5.hap2.1,Nematomorpha,Gordioida,Gordea,Gordiidae,Paragordius,Paragordius varius,72,236.25,0,0,0,1,0,0,0,2
+GCA_019097775.1_ASM1909777v1,Platyhelminthes,Cestoda,Cyclophyllidea,Anoplocephalidae,Moniezia,Moniezia expansa,346.9875,0,0,0,0,0,0,0,0,2
+GCA_017562135.1_ASM1756213v1,Platyhelminthes,Cestoda,Cyclophyllidea,Dipylidiidae,Dipylidium,Dipylidium caninum,379.5642857,0,0,0,0,0,0,0,0,2
+GCA_900708905.1_H._diminuta_assembly_from_ERS3052629-ERS3052634,Platyhelminthes,Cestoda,Cyclophyllidea,Hymenolepididae,Hymenolepis,Hymenolepis diminuta,5005.9,0,0,0,0,0,0,0,0,2
+GCA_000469805.3_HMN_v3,Platyhelminthes,Cestoda,Cyclophyllidea,Hymenolepididae,Hymenolepis,Hymenolepis microstoma,983.7,0,0,0,0,0,0,0,0,2
+GCA_900617975.1_H_nana_Japan_0011_upd,Platyhelminthes,Cestoda,Cyclophyllidea,Hymenolepididae,Rodentolepis,Rodentolepis nana,66.33333333,0,0,0,0,0,0,0,0,1
+GCA_000524195.1_ASM52419v1,Platyhelminthes,Cestoda,Cyclophyllidea,Taeniidae,Echinococcus,Echinococcus granulosus,1351.1105,12684.3605,0,1,0,1,0,0,0,2
+GCA_000469725.3_EMULTI002,Platyhelminthes,Cestoda,Cyclophyllidea,Taeniidae,Echinococcus,Echinococcus multilocularis,190.43,518.93,0,1,0,1,0,0,0,2
+GCA_900622495.1_H_taeniaeformis_Canary_Islands_0011_upd,Platyhelminthes,Cestoda,Cyclophyllidea,Taeniidae,Hydatigera,Hydatigera taeniaeformis,1505.775,0,0,0,0,0,0,0,0,2
+GCA_001693035.2_Taenia_asiatica_TASYD01_v1,Platyhelminthes,Cestoda,Cyclophyllidea,Taeniidae,Taenia,Taenia asiatica,10054.4125,0,0,0,0,0,0,0,0,2
+GCA_023375655.1_TcrWFU,Platyhelminthes,Cestoda,Cyclophyllidea,Taeniidae,Taenia,Taenia crassiceps,815.8875,0,0,1,0,1,0,0,0,2
+GCA_036345935.2_Thy_genome_v2.1_HiC,Platyhelminthes,Cestoda,Cyclophyllidea,Taeniidae,Taenia,Taenia hydatigena,545.3022321,0,0,0,0,0,0,0,0,2
+GCA_023968675.1_ASM2396867v1,Platyhelminthes,Cestoda,Cyclophyllidea,Taeniidae,Taenia,Taenia pisiformis,222.3,0,0,1,0,0,0,0,0,2
+GCA_001693075.2_ASM169307v2,Platyhelminthes,Cestoda,Cyclophyllidea,Taeniidae,Taenia,Taenia saginata,9332.25,0,0,0,0,0,0,0,0,2
+GCA_001870725.1_MEX_genome.1-6-13,Platyhelminthes,Cestoda,Cyclophyllidea,Taeniidae,Taenia,Taenia solium,4719.2,0,0,0,0,0,0,0,0,2
+GCA_900617775.1_D_latum_Geneva_0011_upd,Platyhelminthes,Cestoda,Diphyllobothriidea,Diphyllobothriidae,Dibothriocephalus,Dibothriocephalus latus,4209.975,0,1,0,0,0,0,0,0,3
+GCA_036362985.1_ASM3636298v1,Platyhelminthes,Cestoda,Diphyllobothriidea,Diphyllobothriidae,Ligula,Ligula intestinalis,1661.4,0,0,0,0,0,0,0,0,3
+GCA_017591395.1_ASM1759139v1,Platyhelminthes,Cestoda,Diphyllobothriidea,Diphyllobothriidae,Schistocephalus,Schistocephalus solidus,398.6625,0,0,0,0,0,0,0,0,3
+GCA_902702965.1_SerJ_v2_0,Platyhelminthes,Cestoda,Diphyllobothriidea,Diphyllobothriidae,Spirometra,Spirometra erinaceieuropaei,5218.575,0,0,0,0,0,0,0,0,3
+GCA_012064415.1_ASM1206441v1,Platyhelminthes,Monogenea,Gyrodactylidea,Gyrodactylidae,Gyrodactylus,Gyrodactylus bullatarudis,7,0,1,0,0,0,0,0,0,1
+GCA_000715275.1_Gsalaris_v1,Platyhelminthes,Monogenea,Gyrodactylidea,Gyrodactylidae,Gyrodactylus,Gyrodactylus salaris,58,0,0,0,0,0,0,0,0,1
+GCA_950097015.1_Machtx_SR1_v2,Platyhelminthes,Turbellaria,Macrostomida,Macrostomidae,Macrostomum,Macrostomum hystrix,100,0,0,0,0,0,0,0,0,0
+GCA_002269645.1_Mlig_3_7,Platyhelminthes,Turbellaria,Macrostomida,Macrostomidae,Macrostomum,Macrostomum lignano,627.2916667,0,0,0,0,0,0,0,0,0
+GCA_003604175.2_CSKR.v2,Platyhelminthes,Trematoda,Opisthorchiida,Opisthorchiidae,Clonorchis,Clonorchis sinensis,7322.4,7705.65,0,1,0,1,0,0,0,3
+GCA_004794785.1_ICG_Ofel_1.0,Platyhelminthes,Trematoda,Opisthorchiida,Opisthorchiidae,Opisthorchis,Opisthorchis felineus,10338.73125,11554.18125,0,1,0,1,0,0,0,3
+GCA_944474145.2_tdDicDend1.1c,Platyhelminthes,Trematoda,Plagiorchiida,Dicrocoeliidae,Dicrocoelium,Dicrocoelium dendriticum,2792.25,2968.5625,0,1,0,1,0,0,0,3
+GCA_900618425.1_E_caproni_Egypt_0011_upd,Platyhelminthes,Trematoda,Plagiorchiida,Echinostomatidae,Echinostoma,Echinostoma caproni,221.85,299.1,0,1,0,1,0,0,0,3
+GCA_018104335.1_GXU_FGig_PAC.1.0,Platyhelminthes,Trematoda,Plagiorchiida,Fasciolidae,Fasciola,Fasciola gigantica,1749.875625,1892.510625,0,1,0,1,0,0,0,2
+GCA_948099385.2_Fh240107Braker,Platyhelminthes,Trematoda,Plagiorchiida,Fasciolidae,Fasciola,Fasciola hepatica,2750.378571,2970.578571,0,1,0,1,0,0,0,2
+GCA_008360955.1_F_buski_1.0.allpaths-lg,Platyhelminthes,Trematoda,Plagiorchiida,Fasciolidae,Fasciolopsis,Fasciolopsis buskii,384.6975,447.6975,0,1,0,1,0,0,0,2
+GCA_964258995.1_CDAUBV1_v9,Platyhelminthes,Trematoda,Plagiorchiida,Paramphistomidae,Calicophoron,Calicophoron daubneyi,703.8,821.25,0,1,0,1,0,0,0,2
+GCA_013368495.1_P_heterotremus_1.0.allpaths.pg.lrna,Platyhelminthes,Trematoda,Plagiorchiida,Troglotrematidae,Paragonimus,Paragonimus heterotremus,5421.15,7063.65,0,1,0,1,0,0,0,3
+GCA_014220965.1_P_kellicotti_1.0.allpaths.nc.pg.lrna,Platyhelminthes,Trematoda,Plagiorchiida,Troglotrematidae,Paragonimus,Paragonimus kellicotti,6727.5,7153.4,0,1,0,1,0,0,0,3
+GCA_014338405.1_P_miyazaki_1.0.pg.lrna,Platyhelminthes,Trematoda,Plagiorchiida,Troglotrematidae,Paragonimus,Paragonimus skrjabini miyazakii,6735.15,7720.65,0,1,0,1,0,0,0,3
+GCA_008508345.1_ASM850834v1,Platyhelminthes,Trematoda,Plagiorchiida,Troglotrematidae,Paragonimus,Paragonimus westermani,4748.925,5734.425,0,1,0,1,0,0,0,3
+GCA_900617795.1_P_xenopodis_South_Africa_001_upd,Platyhelminthes,Monogenea,Polystomatidea,Polystomatidae,Protopolystoma,Protopolystoma xenopodis,609.3333333,0,0,0,0,0,0,0,0,1
+GCA_025895645.1_RMIT_Cforst_1.0,Platyhelminthes,Trematoda,Strigeidida,Aporocotylidae,Cardicola,Cardicola forsteri,224.175,0,0,1,0,0,0,0,0,2
+GCA_040967615.1_ASM4096761v1,Platyhelminthes,Trematoda,Strigeidida,Clinostomidae,Clinostomum,Clinostomum complanatum,59.4,880.65,0,1,0,1,0,0,0,3
+GCA_944470555.2_tdHetHame2.2,Platyhelminthes,Trematoda,Strigeidida,Schistosomatidae,Heterobilharzia,Heterobilharzia americana,1347.15,0,0,1,0,1,0,0,0,2
+GCA_944474815.3_tdSchCurr1.1a,Platyhelminthes,Trematoda,Strigeidida,Schistosomatidae,Schistosoma,Schistosoma curassoni,2764.875,0,0,1,0,0,0,0,0,2
+GCA_000699445.3_UoM_Shae.V3,Platyhelminthes,Trematoda,Strigeidida,Schistosomatidae,Schistosoma,Schistosoma haematobium,10677.05625,0,0,1,0,0,0,0,0,2
+GCA_025215515.1_ASM2521551v1,Platyhelminthes,Trematoda,Strigeidida,Schistosomatidae,Schistosoma,Schistosoma japonicum,15651.675,0,0,1,0,0,0,0,0,2
+GCA_000237925.5_SM_V9,Platyhelminthes,Trematoda,Strigeidida,Schistosomatidae,Schistosoma,Schistosoma mansoni,9813.724219,0,0,1,0,0,0,0,0,2
+GCA_944472135.2_tdTriRege1.2,Platyhelminthes,Trematoda,Strigeidida,Schistosomatidae,Trichobilharzia,Trichobilharzia regenti,63,0,0,1,0,0,0,0,0,2
+GCA_944472155.2_tdTriSzid1.2,Platyhelminthes,Trematoda,Strigeidida,Schistosomatidae,Trichobilharzia,Trichobilharzia szidati,409.2,0,0,1,0,0,0,0,0,2
+GCA_044892535.1_ASM4489253v1,Platyhelminthes,Rhabditophora,Tricladida,Dugesiidae,Schmidtea,Schmidtea lugubris,1551.25,0,0,1,0,1,0,0,0,0
+GCA_045838265.1_schMedS3h1,Platyhelminthes,Rhabditophora,Tricladida,Dugesiidae,Schmidtea,Schmidtea mediterranea,1095,0,0,1,0,0,0,0,0,0
+GCA_044892525.1_ASM4489252v1,Platyhelminthes,Rhabditophora,Tricladida,Dugesiidae,Schmidtea,Schmidtea polychroa,1323.125,0,0,1,0,0,0,0,0,0
+GCA_037951405.1_ASM3795140v1,Platyhelminthes,Rhabditophora,Tricladida,Geoplanidae,Platydemus,Platydemus manokwari,730,0,0,0,0,0,0,0,0,0
+GCA_905250025.1_Ar_ARIC003_reference_genomic_v1,Rotifera,Bdelloidea,Bdelloidea,Adinetidae,Adineta,Adineta ricciae,66,0,1,0,1,1,0,0,0,0
+GCA_021613535.1_ASM2161353v1,Rotifera,Bdelloidea,Bdelloidea,Adinetidae,Adineta,Adineta vaga,27,0,1,0,1,1,0,0,0,0
+GCA_022393335.1_ASM2239333v1,Rotifera,Bdelloidea,Bdelloidea,Philodinidae,Macrotrachela,Macrotrachela quadricornifera,68.66666667,0,1,0,1,1,0,0,0,0
+GCA_021432725.1_ASM2143272v1,Rotifera,Monogononta,Ploima,Brachionidae,Brachionus,Brachionus angularis,11.21805556,0,1,0,1,0,0,0,0,0
+GCA_002922825.1_Bc_v0.6,Rotifera,Monogononta,Ploima,Brachionidae,Brachionus,Brachionus calyciflorus,14.29545455,0,1,0,1,0,0,0,0,0
+GCA_016987375.1_Bk_v0.5.4,Rotifera,Monogononta,Ploima,Brachionidae,Brachionus,Brachionus koreanus,25.5,0,1,0,1,0,0,0,0,0
+GCA_019054805.1_ASM1905480v1,Rotifera,Monogononta,Ploima,Brachionidae,Brachionus,Brachionus manjavacas,37.33333333,0,1,0,1,0,0,0,0,0
+GCA_016802215.1_ASM1680221v1,Rotifera,Monogononta,Ploima,Brachionidae,Brachionus,Brachionus paranguensis,19.9,0,1,0,1,0,0,0,0,0
+GCA_010279815.1_ASM1027981v1,Rotifera,Monogononta,Ploima,Brachionidae,Brachionus,Brachionus plicatilis,19.96794872,0,1,0,1,0,0,0,0,0
+GCA_016802295.1_ASM1680229v1,Rotifera,Monogononta,Ploima,Brachionidae,Brachionus,Brachionus rotundiformis,16.875,0,1,0,1,0,0,0,0,0
+GCA_022207745.1_ASM2220774v1,Rotifera,Monogononta,Ploima,Brachionidae,Brachionus,Brachionus rubens,17,0,1,0,1,0,0,0,0,0
+GCA_019059635.1_ASM1905963v1,Rotifera,Monogononta,Ploima,Proalidae,Proales,Proales similis,9,0,1,0,1,0,0,0,0,0
+GCA_002082055.1_nHd_3.1,Tardigrada,Eutardigrada,Parachela,Hypsibiidae,Hypsibius,Hypsibius exemplaris,75,0,1,0,0,1,0,0,0,0
+GCA_034696485.1_ASM3469648v1,Tardigrada,Eutardigrada,Parachela,Isohypsibiidae,Isohypsibius,Isohypsibius dastychi,53,0,0,0,0,1,0,0,0,0
+GCA_034698045.1_ASM3469804v1,Tardigrada,Eutardigrada,Parachela,Macrobiotidae,Paramacrobiotus,Paramacrobiotus richtersi,487.5,0,1,0,0,1,0,0,0,0
+GCA_001949185.1_Rvar_4.0,Tardigrada,Eutardigrada,Parachela,Ramazzottiidae,Ramazzottius,Ramazzottius varieornatus,87,0,1,0,0,1,0,0,0,0

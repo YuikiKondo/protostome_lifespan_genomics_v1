@@ -1,0 +1,5 @@
+This directory is almost the same as 05_04_dinucleotide_calc_pipeline directory.
+
+All files except 05_10_06_exclude_anormal_species.py contain the same code as files in 05_04_dinucleotide_calc_pipeline directory.
+
+Only 5 species were failed in running BUSCO with AUGUSTUS for some reason. Thus, these species were excluded in the following processes in this 05_10_dinucleotide_calc_pipeline_excluding_5spp directory to fairly compare BUSCO with Miniprot, BUSCO with Augustus and All genes with Augustus using the same set of species.

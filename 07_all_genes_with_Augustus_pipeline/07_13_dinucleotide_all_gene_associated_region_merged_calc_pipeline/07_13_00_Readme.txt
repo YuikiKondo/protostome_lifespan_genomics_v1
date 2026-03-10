@@ -1,0 +1,3 @@
+See 07_05_00_Readme.txt
+
+07_13_dinucleotide_all_gene_associated_region_merged_calc_pipeline treats -2kb from start codon to +1kb from stop codon as "gene-associated regions" for all Augustus-predicted genes and the rest of the sequence in the genome as "intergenic regions", and calculate dinucleotide motif counts, raw frequencies, and O/E ratio for the intergenic regions.
